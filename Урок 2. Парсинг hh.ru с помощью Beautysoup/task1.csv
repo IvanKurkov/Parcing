@@ -1,364 +1,129 @@
 ,Name job,Link,Min_salary,Max_salary,Where,Employer,Employer_link,Address
-0,Разработчик Python,https://hh.ru/vacancy/49041173?from=vacancy_search_list&query=Python,187000.0,338000.0,hh.ru,ИП Брусова Татьяна Анатольевна,https://hh.ru/employer/5544696,Москва
-1,"DevOps Engineer (Bash, Python, Centos/ Debian/ Ubuntu)",https://hh.ru/vacancy/49041292?from=vacancy_search_list&query=Python,160000.0,284000.0,hh.ru,ИП Брусова Татьяна Анатольевна,https://hh.ru/employer/5544696,Москва
-2,Backend Python developer,https://hh.ru/vacancy/48978887?from=vacancy_search_list&query=Python,139000.0,243000.0,hh.ru,"Metapix, Inc",https://hh.ru/employer/4883629,Москва
-3,"DevOps инженер (Bash, Python, AWS/ GCP)",https://hh.ru/vacancy/49041322?from=vacancy_search_list&query=Python,160000.0,284000.0,hh.ru,ИП Брусова Татьяна Анатольевна,https://hh.ru/employer/5544696,Москва
-4,Python разработчик,https://hh.ru/vacancy/47682360?from=vacancy_search_list&query=Python,,380000.0,hh.ru,Точка,https://hh.ru/employer/2324020,Москва
-5,Junior разработчик Python Django,https://hh.ru/vacancy/48768385?from=vacancy_search_list&query=Python,40000.0,80000.0,hh.ru,ООО Инсейлс Рус,https://hh.ru/employer/1805574,"Москва, Комсомольская"
-6,Junior Python разработчик,https://hh.ru/vacancy/48969346?from=vacancy_search_list&query=Python,,,hh.ru,ANABAR,https://hh.ru/employer/4872201,Москва
-7,Junior Data Engineer (Python),https://hh.ru/vacancy/47914759?from=vacancy_search_list&query=Python,120000.0,120000.0,hh.ru,DataFork,https://hh.ru/employer/3319598,"Москва, Выставочная и еще 2 "
-8,Python разработчик (Junior +/Middle/Senior),https://hh.ru/vacancy/49000269?from=vacancy_search_list&query=Python,120000.0,,hh.ru,ООО ВБЦ,https://hh.ru/employer/2005098,Москва
-9,Python разработчик junior,https://hh.ru/vacancy/48816383?from=vacancy_search_list&query=Python,30000.0,60000.0,hh.ru,amoCRM,https://hh.ru/employer/999442,"Москва, Таганская"
-10,"Python-разработчик (Django, DRF)",https://hh.ru/vacancy/39736489?from=vacancy_search_list&query=Python,60000.0,150000.0,hh.ru,ООО Фабрика Решений,https://hh.ru/employer/4596113,"Москва, Сухаревская"
-11,Senior Back-end Engineer (Python),https://hh.ru/vacancy/48855094?from=vacancy_search_list&query=Python,330000.0,520000.0,hh.ru,Corrily,https://hh.ru/employer/5787201,Москва
-12,Разработчик Python,https://hh.ru/vacancy/48887753?from=vacancy_search_list&query=Python,150000.0,,hh.ru,"Hello, Doc!",https://hh.ru/employer/4744797,"Москва, Алексеевская"
-13,Разработчик Rust/Разработчик Go/Разрабочтик python(удаленно),https://hh.ru/vacancy/48457284?from=vacancy_search_list&query=Python,300000.0,,hh.ru,ArtVolkov.ru,https://hh.ru/employer/578702,Москва
-14,Python Backend Developer Blockchain,https://hh.ru/vacancy/48663627?from=vacancy_search_list&query=Python,250000.0,450000.0,hh.ru,ИП Валовой Сергей Александрович,https://hh.ru/employer/5420312,Москва
-15,Middle Python-разработчик,https://hh.ru/vacancy/49121141?from=vacancy_search_list&query=Python,250000.0,,hh.ru,FINPAY,https://hh.ru/employer/5211392,"Москва, Менделеевская"
-16,Бэкенд-разработчик Python/Middle Python/ Python Developer (Remote),https://hh.ru/vacancy/48638057?from=vacancy_search_list&query=Python,150000.0,220000.0,hh.ru,"ЮТэйр, Авиакомпания",https://hh.ru/employer/17713,Москва
-17,Senior Python-разработчик,https://hh.ru/vacancy/49121112?from=vacancy_search_list&query=Python,300000.0,,hh.ru,FINPAY,https://hh.ru/employer/5211392,"Москва, Менделеевская"
-18,Python Team Lead (python3.8. + django),https://hh.ru/vacancy/48493368?from=vacancy_search_list&query=Python,350000.0,400000.0,hh.ru,TopsWeTeam,https://hh.ru/employer/5753850,Москва
-19,Middle Python/Flask developer,https://hh.ru/vacancy/48641636?from=vacancy_search_list&query=Python,180000.0,250000.0,hh.ru,ООО Эксперум,https://hh.ru/employer/3912653,Москва
-20,Python-разработчик во Flow,https://hh.ru/vacancy/45987511?from=vacancy_search_list&query=Python,,,hh.ru,Яндекс,https://hh.ru/employer/1740,Москва
-21,Middle QA Automation Engineer (Python),https://hh.ru/vacancy/43394113?from=vacancy_search_list&query=Python,180000.0,250000.0,hh.ru,Scalable Solutions,https://hh.ru/employer/5078562,Москва
-22,Senior QA Automation Engineer (Python),https://hh.ru/vacancy/45114743?from=vacancy_search_list&query=Python,300000.0,,hh.ru,Scalable Solutions,https://hh.ru/employer/5078562,Москва
-23,Python программист-разработчик,https://hh.ru/vacancy/48967178?from=vacancy_search_list&query=Python,,,hh.ru,ООО НСК ЭкоСфера,https://hh.ru/employer/4641329,Москва
-24,Python developer (middle),https://hh.ru/vacancy/47570441?from=vacancy_search_list&query=Python,150000.0,,hh.ru,Fitingo,https://hh.ru/employer/5677303,Москва
-25,Senior Python developer,https://hh.ru/vacancy/47554572?from=vacancy_search_list&query=Python,230000.0,,hh.ru,Fitingo,https://hh.ru/employer/5677303,Москва
-26,Middle Python Developer,https://hh.ru/vacancy/48724751?from=vacancy_search_list&query=Python,160000.0,200000.0,hh.ru,АО ЮНИС Лабс Солюшинз,https://hh.ru/employer/253771,Москва
-27,Backend разработчик (Python Middle+/Senior),https://hh.ru/vacancy/48793751?from=vacancy_search_list&query=Python,250000.0,350000.0,hh.ru,ООО Ок Софт,https://hh.ru/employer/5692713,Москва
-28,Python разработчик,https://hh.ru/vacancy/37486302?from=vacancy_search_list&query=Python,150000.0,280000.0,hh.ru,АО Семейный доктор,https://hh.ru/employer/142683,"Москва, Баррикадная и еще 1 "
-29,Python Developer,https://hh.ru/vacancy/40612238?from=vacancy_search_list&query=Python,,,hh.ru,Тинькофф,https://hh.ru/employer/78638,"Москва, Водный стадион"
-30,Senior Python Engineer (Remote),https://hh.ru/vacancy/47213315?from=vacancy_search_list&query=Python,230000.0,320000.0,hh.ru,Spark Equation,https://hh.ru/employer/1787419,Москва
-31,Python Lead Developer,https://hh.ru/vacancy/48990045?from=vacancy_search_list&query=Python,200000.0,300000.0,hh.ru,E-comet,https://hh.ru/employer/5557093,Москва
-32,Python Developer Backend (middle/senior),https://hh.ru/vacancy/48892719?from=vacancy_search_list&query=Python,100000.0,400000.0,hh.ru,Ритм,https://hh.ru/employer/4576177,Москва
-33,Python разработчик (senior) (backend),https://hh.ru/vacancy/43941903?from=vacancy_search_list&query=Python,,500000.0,hh.ru,ООО Лендсбэй,https://hh.ru/employer/3497676,"Москва, Площадь Гагарина"
-34,Ведущий Python разработчик,https://hh.ru/vacancy/48378145?from=vacancy_search_list&query=Python,180000.0,,hh.ru,ЛАЙФСТРИМ,https://hh.ru/employer/1144566,"Москва, Таганская"
-35,Разработчик Python,https://hh.ru/vacancy/48396921?from=vacancy_search_list&query=Python,80000.0,,hh.ru,ЭКСПО-ТОРГ,https://hh.ru/employer/2135858,"Москва, Котельники"
-36,Python & JAICP developer,https://hh.ru/vacancy/48660935?from=vacancy_search_list&query=Python,70000.0,140000.0,hh.ru,Cleverbots,https://hh.ru/employer/3761287,Москва
-37,Python-разработчик,https://hh.ru/vacancy/48082943?from=vacancy_search_list&query=Python,230000.0,,hh.ru,Наймиум,https://hh.ru/employer/4940016,"Москва, Дмитровская и еще 2 "
-38,Python/Django Web Developer (Remote),https://hh.ru/vacancy/49019839?from=vacancy_search_list&query=Python,278000.0,417000.0,hh.ru,Soshace,https://hh.ru/employer/1738507,Москва
-39,Python QA Automation Engineer / SDET в AI-стартап (удаленно),https://hh.ru/vacancy/49068635?from=vacancy_search_list&query=Python,180000.0,250000.0,hh.ru,"Intento, Inc.",https://hh.ru/employer/2434162,Москва
-40,Python разработчик,https://hh.ru/vacancy/47977485?from=vacancy_search_list&query=Python,,300000.0,hh.ru,Spice Agency,https://hh.ru/employer/654435,Москва
-41,Backend разработчик Python,https://hh.ru/vacancy/49149963?from=vacancy_search_list&query=Python,,,hh.ru,Билайн,https://hh.ru/employer/4934,Москва
-42,"Middle Python-developer (aiohttp, asyncio)",https://hh.ru/vacancy/48393786?from=vacancy_search_list&query=Python,,200000.0,hh.ru,KTS,https://hh.ru/employer/3202190,"Москва, Бауманская"
-43,Python-разработчик (Middle) удаленно,https://hh.ru/vacancy/47449635?from=vacancy_search_list&query=Python,,220000.0,hh.ru,Латера,https://hh.ru/employer/1050345,Москва
-44,Python разработчик,https://hh.ru/vacancy/49128117?from=vacancy_search_list&query=Python,,,hh.ru,IPONWEB Ltd (UK),https://hh.ru/employer/65093,"Москва, Шаболовская"
-45,Разработчик Python,https://hh.ru/vacancy/47769516?from=vacancy_search_list&query=Python,,,hh.ru,Cognitive Pilot,https://hh.ru/employer/4468207,Москва
-46,Python Developer,https://hh.ru/vacancy/49046919?from=vacancy_search_list&query=Python,135000.0,187000.0,hh.ru,ООО Ябби,https://hh.ru/employer/2977097,Москва
-47,Senior Python Developer,https://hh.ru/vacancy/48847592?from=vacancy_search_list&query=Python,278000.0,417000.0,hh.ru,Top Remote Talent,https://hh.ru/employer/4955407,Москва
-48,"Программист (ROS, Python и С++)",https://hh.ru/vacancy/48539184?from=vacancy_search_list&query=Python,,,hh.ru,MAKERT,https://hh.ru/employer/4991195,Москва
-49,Python developer (Автографик),https://hh.ru/vacancy/47431643?from=vacancy_search_list&query=Python,,,hh.ru,Домклик,https://hh.ru/employer/2136954,Москва
-50,Python developer (проект),https://hh.ru/vacancy/48875298?from=vacancy_search_list&query=Python,,,hh.ru,ООО Грин Грей Софтворкс,https://hh.ru/employer/5008916,Москва
-51,Senior Python Developer,https://hh.ru/vacancy/48293376?from=vacancy_search_list&query=Python,242000.0,,hh.ru,ООО РД Технологии,https://hh.ru/employer/3072335,"Москва, Бауманская"
-52,Python developer (Big Data),https://hh.ru/vacancy/49152219?from=vacancy_search_list&query=Python,,,hh.ru,"ПАО «МТС», IT",https://hh.ru/employer/3776?dpt=mts-3776-it,"Москва, Технопарк"
-53,Разработчик Python,https://hh.ru/vacancy/47381562?from=vacancy_search_list&query=Python,,,hh.ru,АО ИнфоТеКС,https://hh.ru/employer/3778,"Москва, Отрадное"
-54,Python Developer,https://hh.ru/vacancy/49144323?from=vacancy_search_list&query=Python,,,hh.ru,ООО Национальная Билетная Система,https://hh.ru/employer/5322783,Москва
-55,Python-разработчик,https://hh.ru/vacancy/47499212?from=vacancy_search_list&query=Python,200000.0,300000.0,hh.ru,Novakid Inc,https://hh.ru/employer/851716,Москва
-56,Python разработчик,https://hh.ru/vacancy/41816310?from=vacancy_search_list&query=Python,,,hh.ru,BANZAI.GAMES,https://hh.ru/employer/2770600,Москва
-57,Data Analyst,https://hh.ru/vacancy/48502218?from=vacancy_search_list&query=Python,,300000.0,hh.ru,4CV Recruitment Services,https://hh.ru/employer/5231648,Москва
-58,Разработчик (Python),https://hh.ru/vacancy/40551245?from=vacancy_search_list&query=Python,100000.0,160000.0,hh.ru,Институт прикладных экономических исследований РАНХиГС при Президенте Российской Федерации,https://hh.ru/employer/3094338,"Москва, Юго-Западная"
-59,Python-разработчик,https://hh.ru/vacancy/48274018?from=vacancy_search_list&query=Python,,,hh.ru,"VK, Delivery Club",https://hh.ru/employer/15478?dpt=mailru-15478-dc,"Москва, Аэропорт"
-60,Python Developer,https://hh.ru/vacancy/42358806?from=vacancy_search_list&query=Python,,,hh.ru,Онлайн-школа Тетрика,https://hh.ru/employer/3731347,"Москва, Курская"
-61,Python/Go разработчик,https://hh.ru/vacancy/48410676?from=vacancy_search_list&query=Python,,,hh.ru,Quiet Media,https://hh.ru/employer/4422327,"Москва, Киевская и еще 2 "
-62,Разработчик Python,https://hh.ru/vacancy/46777697?from=vacancy_search_list&query=Python,,,hh.ru,Центр Агроаналитики,https://hh.ru/employer/869634,Москва
-63,Разработчик Python,https://hh.ru/vacancy/49110579?from=vacancy_search_list&query=Python,,,hh.ru,ADV/web-engineering,https://hh.ru/employer/421950,"Москва, Дмитровская"
-64,Разработчик внутренней автоматизации (Python),https://hh.ru/vacancy/48405072?from=vacancy_search_list&query=Python,,,hh.ru,СберИгры,https://hh.ru/employer/5437858,Москва
-65,Python senior developer / Старший Python-Разработчик,https://hh.ru/vacancy/47484744?from=vacancy_search_list&query=Python,250000.0,,hh.ru,BestDoctor,https://hh.ru/employer/2730772,Москва
-66,Middle разработчик Python / Django (удалённо),https://hh.ru/vacancy/48923479?from=vacancy_search_list&query=Python,,,hh.ru,ООО Диджитал Пайн,https://hh.ru/employer/1514066,Москва
-67,Python Developer (Customization Blitz),https://hh.ru/vacancy/47898759?from=vacancy_search_list&query=Python,,,hh.ru,"Wargaming, Moscow",https://hh.ru/employer/662769?dpt=662769-662769-moscow,Москва
-68,Программист разработчик на Python,https://hh.ru/vacancy/48959792?from=vacancy_search_list&query=Python,110000.0,160000.0,hh.ru,"ГРЧЦ, ФГУП",https://hh.ru/employer/30485,"Москва, Павелецкая"
-69,Python developer,https://hh.ru/vacancy/48934894?from=vacancy_search_list&query=Python,,,hh.ru,Colvir Software Solutions,https://hh.ru/employer/707817,Москва
-70,Senior Python Developer,https://hh.ru/vacancy/49130051?from=vacancy_search_list&query=Python,,242000.0,hh.ru,ООО Globus.ai,https://hh.ru/employer/3194188,Москва
-71,Python Developer,https://hh.ru/vacancy/47288057?from=vacancy_search_list&query=Python,,,hh.ru,Artezio,https://hh.ru/employer/733?dpt=733-733-artezio,"Москва, Маяковская"
-72,Backend developer python,https://hh.ru/vacancy/47799772?from=vacancy_search_list&query=Python,,,hh.ru,Билайн,https://hh.ru/employer/4934,Москва
-73,Backend разработчик (Python),https://hh.ru/vacancy/47176790?from=vacancy_search_list&query=Python,170000.0,250000.0,hh.ru,Tevian (ООО Технологии видеоанализа),https://hh.ru/employer/4046921,Москва
-74,Python Developer,https://hh.ru/vacancy/49149656?from=vacancy_search_list&query=Python,,,hh.ru,"АТОЛ, группа компаний",https://hh.ru/employer/3343,Москва
-75,Python developer,https://hh.ru/vacancy/48253082?from=vacancy_search_list&query=Python,,,hh.ru,ООО Константа,https://hh.ru/employer/2279941,"Москва, Красносельская"
-76,Python Developer,https://hh.ru/vacancy/48715724?from=vacancy_search_list&query=Python,,300000.0,hh.ru,ООО Ньюком Дистрибьюшн,https://hh.ru/employer/5261327,Москва
-77,Разработчик Python,https://hh.ru/vacancy/49060097?from=vacancy_search_list&query=Python,,,hh.ru,Integrity Solutions,https://hh.ru/employer/5286441,Москва
-78,Python разработчик,https://hh.ru/vacancy/48982344?from=vacancy_search_list&query=Python,150000.0,180000.0,hh.ru,Leads,https://hh.ru/employer/783222,Москва
-79,Инженер-программист Python,https://hh.ru/vacancy/49051205?from=vacancy_search_list&query=Python,150000.0,200000.0,hh.ru,IT_Selection,https://hh.ru/employer/747028,Москва
-80,Backend Python разработчик,https://hh.ru/vacancy/48546755?from=vacancy_search_list&query=Python,,,hh.ru,Центр хранения и анализа больших данных,https://hh.ru/employer/4572865,Москва
-81,Junior/Middle Python Developer,https://hh.ru/vacancy/48974304?from=vacancy_search_list&query=Python,,150000.0,hh.ru,Algalon Capital,https://hh.ru/employer/3011645,"Москва, Выставочная и еще 1 "
-82,Разработчик Python (Senior),https://hh.ru/vacancy/44811190?from=vacancy_search_list&query=Python,,,hh.ru,ООО Страховая компания «Сбербанк страхование»,https://hh.ru/employer/1809605,Москва
-83,Python разработчик,https://hh.ru/vacancy/49037748?from=vacancy_search_list&query=Python,,,hh.ru,УК ТАВРОС,https://hh.ru/employer/1322961,"Москва, Зорге и еще 2 "
-84,Python Developer,https://hh.ru/vacancy/49073433?from=vacancy_search_list&query=Python,,,hh.ru,Andersen,https://hh.ru/employer/851604,Москва
-85,Разработчик на Python и Spark (Облако данных),https://hh.ru/vacancy/49016492?from=vacancy_search_list&query=Python,,,hh.ru,ANCOR,https://hh.ru/employer/1947314?dpt=1947314-1947314-ancor,Москва
-86,Разработчик Python,https://hh.ru/vacancy/49009237?from=vacancy_search_list&query=Python,,,hh.ru,Лига Цифровой Экономики,https://hh.ru/employer/2733062,"Москва, Савеловская"
-87,Программист Python,https://hh.ru/vacancy/49018319?from=vacancy_search_list&query=Python,,,hh.ru,ООО Джобблог,https://hh.ru/employer/5101965,Москва
-88,Разработчик Python,https://hh.ru/vacancy/48993749?from=vacancy_search_list&query=Python,,,hh.ru,Ай-Теко (I-Teco),https://hh.ru/employer/115,Москва
-89,Python разработчик,https://hh.ru/vacancy/48903574?from=vacancy_search_list&query=Python,,,hh.ru,ООО Строительный Двор,https://hh.ru/employer/665449,"Москва, Выставочная"
-90,Преподаватель курса  “Python” (Python developer),https://hh.ru/vacancy/48214691?from=vacancy_search_list&query=Python,,,hh.ru,GeekBrains,https://hh.ru/employer/1111672,Москва
-91,Программист Python,https://hh.ru/vacancy/48437592?from=vacancy_search_list&query=Python,120000.0,,hh.ru,Фирма ВОДОКОМФОРТ,https://hh.ru/employer/1256842,"Москва, Павелецкая и еще 1 "
-92,Senior Python Developer,https://hh.ru/vacancy/47642650?from=vacancy_search_list&query=Python,150000.0,250000.0,hh.ru,ООО Интеллектуальные Продукты,https://hh.ru/employer/5482268,Москва
-93,"Преподаватель по курсу “Python”/ ""Асинхронный чат-сервер""/ Python developer",https://hh.ru/vacancy/48213974?from=vacancy_search_list&query=Python,,,hh.ru,GeekBrains,https://hh.ru/employer/1111672,Москва
-94,Разработчик Python (Middle),https://hh.ru/vacancy/48978644?from=vacancy_search_list&query=Python,150000.0,200000.0,hh.ru,ООО HR-PROFI,https://hh.ru/employer/1883675,Москва
-95,Python developer,https://hh.ru/vacancy/46898066?from=vacancy_search_list&query=Python,,,hh.ru,VK,https://hh.ru/employer/15478?dpt=mailru-15478-other,Москва
-96,Senior Python-Разработчик (удаленно),https://hh.ru/vacancy/47484756?from=vacancy_search_list&query=Python,180000.0,,hh.ru,BestDoctor,https://hh.ru/employer/2730772,Москва
-97,Senior Data Engineer,https://hh.ru/vacancy/49031421?from=vacancy_search_list&query=Python,,350000.0,hh.ru,inDriver,https://hh.ru/employer/2524797,"Москва, Белорусская"
-98,Разработчик python (Middle/Senior),https://hh.ru/vacancy/48469486?from=vacancy_search_list&query=Python,,,hh.ru,Eqvanta,https://hh.ru/employer/3785152,Москва
-99,Python developer (Cybersecurity),https://hh.ru/vacancy/46660207?from=vacancy_search_list&query=Python,,,hh.ru,BI.ZONE Направление Разработка,https://hh.ru/employer/2367681?dpt=2367681-2367681-dev,"Москва, Бауманская и еще 2 "
-100,Python Developer/ Разработчик Python,https://hh.ru/vacancy/47394431?from=vacancy_search_list&query=Python,,,hh.ru,ПАО ТрансКонтейнер,https://hh.ru/employer/65922,Москва
-101,Python Developer,https://hh.ru/vacancy/48855087?from=vacancy_search_list&query=Python,,,hh.ru,ЛитРес,https://hh.ru/employer/745654,"Москва, Выставочная и еще 1 "
-102,Python developer (Kaspersky Anti Targeted Attack),https://hh.ru/vacancy/42522896?from=vacancy_search_list&query=Python,,,hh.ru,Лаборатория Касперского,https://hh.ru/employer/1057,"Москва, Водный стадион"
-103,Разработчик DWH (Airflow + Python),https://hh.ru/vacancy/48936279?from=vacancy_search_list&query=Python,,,hh.ru,MERLION,https://hh.ru/employer/816,Москва
-104,Старший Python разработчик,https://hh.ru/vacancy/48801385?from=vacancy_search_list&query=Python,,200000.0,hh.ru,Eugene Global Consulting,https://hh.ru/employer/1351185,Москва
-105,Python Developer (Remote),https://hh.ru/vacancy/48917750?from=vacancy_search_list&query=Python,243000.0,382000.0,hh.ru,ГК «ВИЗАВИ Консалт»,https://hh.ru/employer/1326,Москва
-106,Python developer,https://hh.ru/vacancy/48981888?from=vacancy_search_list&query=Python,,,hh.ru,Лига Цифровой Экономики,https://hh.ru/employer/2733062,Москва
-107,Программист Python,https://hh.ru/vacancy/48442668?from=vacancy_search_list&query=Python,,,hh.ru,Московская школа управления СКОЛКОВО,https://hh.ru/employer/48059,Москва
-108,"Бэкэнд-разработчик (Python, Django)",https://hh.ru/vacancy/48896096?from=vacancy_search_list&query=Python,208000.0,278000.0,hh.ru,Ergeon,https://hh.ru/employer/3833309,Москва
-109,Middle/Senior Python Developer (Программист Python),https://hh.ru/vacancy/48379511?from=vacancy_search_list&query=Python,,,hh.ru,Rainforest Life Pte Ltd,https://hh.ru/employer/5478097,Москва
-110,Python-разработчик (Confer),https://hh.ru/vacancy/47752511?from=vacancy_search_list&query=Python,,,hh.ru,Домклик,https://hh.ru/employer/2136954,Москва
-111,Python Developer,https://hh.ru/vacancy/48896098?from=vacancy_search_list&query=Python,208000.0,278000.0,hh.ru,Ergeon,https://hh.ru/employer/3833309,Москва
-112,Python developer (Django),https://hh.ru/vacancy/46201697?from=vacancy_search_list&query=Python,,,hh.ru,Kokoc Group,https://hh.ru/employer/219425,Москва
-113,Инженер-программист Python,https://hh.ru/vacancy/45398264?from=vacancy_search_list&query=Python,,,hh.ru,ПАО Магнитогорский металлургический комбинат,https://hh.ru/employer/824486,Москва
-114,Python разработчик,https://hh.ru/vacancy/48058113?from=vacancy_search_list&query=Python,,,hh.ru,TalentTech,https://hh.ru/employer/3238482,"Москва, Марьина Роща и еще 2 "
-115,Python разработчик,https://hh.ru/vacancy/48935169?from=vacancy_search_list&query=Python,,,hh.ru,ООО Строительный Двор,https://hh.ru/employer/665449,"Москва, Выставочная"
-116,Ведущий Python Разработчик,https://hh.ru/vacancy/48944532?from=vacancy_search_list&query=Python,,,hh.ru,ИП Тарасова А.А.,https://hh.ru/employer/1111145,Москва
-117,Разработчик Python (искусственный интеллект),https://hh.ru/vacancy/48851241?from=vacancy_search_list&query=Python,,,hh.ru,Корпорация ЭЛАР,https://hh.ru/employer/4526,Москва
-118,Senior Python Developer,https://hh.ru/vacancy/44878097?from=vacancy_search_list&query=Python,,,hh.ru,VK Pay,https://hh.ru/employer/5313148,Москва
-119,Разработчик Python,https://hh.ru/vacancy/46692454?from=vacancy_search_list&query=Python,,,hh.ru,Инфотекс Интернет Траст,https://hh.ru/employer/5672,Москва
-120,Backend-разработчик (python),https://hh.ru/vacancy/47764127?from=vacancy_search_list&query=Python,,,hh.ru,ЛитРес,https://hh.ru/employer/745654,"Москва, Выставочная и еще 1 "
-121,Разработчик Python,https://hh.ru/vacancy/48796770?from=vacancy_search_list&query=Python,,,hh.ru,Сбер. IT,https://hh.ru/employer/3529?dpt=3529-3529-it,Москва
-122,Ведущий Python разработчик,https://hh.ru/vacancy/47910445?from=vacancy_search_list&query=Python,200000.0,350000.0,hh.ru,ODDSCORP,https://hh.ru/employer/3189417,Москва
-123,Python разработчик,https://hh.ru/vacancy/48758954?from=vacancy_search_list&query=Python,,,hh.ru,Сбер. Экспертам и руководителям,https://hh.ru/employer/3529?dpt=3529-3529-lead,Москва
-124,Python разработчик,https://hh.ru/vacancy/48752474?from=vacancy_search_list&query=Python,,,hh.ru,Яндекс,https://hh.ru/employer/1740,Москва
-125,Python Developer,https://hh.ru/vacancy/48804528?from=vacancy_search_list&query=Python,,,hh.ru,ООО ЦИФРА,https://hh.ru/employer/3191643,"Москва, Университет"
-126,Python разработчик,https://hh.ru/vacancy/48744745?from=vacancy_search_list&query=Python,,,hh.ru,Сбер для экспертов,https://hh.ru/employer/3529?dpt=3529-3529-prof,Москва
-127,Data Engineer (Python),https://hh.ru/vacancy/48219778?from=vacancy_search_list&query=Python,,,hh.ru,Detego,https://hh.ru/employer/3795484,"Москва, Новокузнецкая"
-128,Middle Python-разработчик,https://hh.ru/vacancy/48307116?from=vacancy_search_list&query=Python,,,hh.ru,VSEMAYKI.RU,https://hh.ru/employer/873710,Москва
-129,Senior Python разработчик (Наставник),https://hh.ru/vacancy/47536823?from=vacancy_search_list&query=Python,209500.0,261900.0,hh.ru,Сбер для экспертов,https://hh.ru/employer/3529?dpt=3529-3529-prof,"Москва, Кутузовская и еще 1 "
-130,Senior Python Developer / Data Engineer,https://hh.ru/vacancy/48838062?from=vacancy_search_list&query=Python,,300000.0,hh.ru,Национальный исследовательский университет Высшая школа экономики,https://hh.ru/employer/80981,Москва
-131,Python-разработчик,https://hh.ru/vacancy/48846667?from=vacancy_search_list&query=Python,,,hh.ru,Spice Agency,https://hh.ru/employer/654435,Москва
-132,Python разработчик/ Django,https://hh.ru/vacancy/48792084?from=vacancy_search_list&query=Python,,,hh.ru,ГК «ХайТэк»,https://hh.ru/employer/2262181,"Москва, Текстильщики"
-133,Senior Machine Learning Developer (Java/Python),https://hh.ru/vacancy/43770378?from=vacancy_search_list&query=Python,300000.0,,hh.ru,Joom,https://hh.ru/employer/2801530,"Москва, Динамо и еще 2 "
-134,Python developer,https://hh.ru/vacancy/48796300?from=vacancy_search_list&query=Python,,,hh.ru,WILDBERRIES,https://hh.ru/employer/87021,Москва
-135,Программист Python,https://hh.ru/vacancy/48784272?from=vacancy_search_list&query=Python,,,hh.ru,Сбер. IT,https://hh.ru/employer/3529?dpt=3529-3529-it,"Москва, Кутузовская и еще 1 "
-136,Python разработчик,https://hh.ru/vacancy/48600364?from=vacancy_search_list&query=Python,,,hh.ru,Сбер для экспертов,https://hh.ru/employer/3529?dpt=3529-3529-prof,Москва
-137,Python разработчик,https://hh.ru/vacancy/45537379?from=vacancy_search_list&query=Python,,,hh.ru,"ПАО «МТС», IT",https://hh.ru/employer/3776?dpt=mts-3776-it,"Москва, Технопарк"
-138,Python developer,https://hh.ru/vacancy/46411093?from=vacancy_search_list&query=Python,,,hh.ru,SberTech,https://hh.ru/employer/906557,Москва
-139,Python Developer,https://hh.ru/vacancy/48824707?from=vacancy_search_list&query=Python,,,hh.ru,Luxoft,https://hh.ru/employer/1304,Москва
-140,"Код-ревьюер на курс ""Python-разработчик""",https://hh.ru/vacancy/48755695?from=vacancy_search_list&query=Python,,,hh.ru,Яндекс.Практикум,https://hh.ru/employer/5008932,Москва
-141,Разработчик Python,https://hh.ru/vacancy/47301256?from=vacancy_search_list&query=Python,,,hh.ru,"ВСК, САО",https://hh.ru/employer/1439,Москва
-142,Python разработчик (удаленно),https://hh.ru/vacancy/40278614?from=vacancy_search_list&query=Python,150000.0,220000.0,hh.ru,ООО Строительный Двор,https://hh.ru/employer/665449,Москва
-143,Python разработчик,https://hh.ru/vacancy/48570014?from=vacancy_search_list&query=Python,,,hh.ru,Сбер. IT,https://hh.ru/employer/3529?dpt=3529-3529-it,"Москва, Кутузовская и еще 1 "
-144,Senior Python developer,https://hh.ru/vacancy/47381245?from=vacancy_search_list&query=Python,,,hh.ru,SUNLIGHT/САНЛАЙТ,https://hh.ru/employer/18239,"Москва, Мякинино и еще 3 "
-145,Программист Python (Junior/Middle),https://hh.ru/vacancy/48485942?from=vacancy_search_list&query=Python,,100000.0,hh.ru,VIRTUAL ASSISTANTS,https://hh.ru/employer/5482458,Москва
-146,Python разработчик в SberDevices (b2e),https://hh.ru/vacancy/44536394?from=vacancy_search_list&query=Python,,,hh.ru,Сбер. IT,https://hh.ru/employer/3529?dpt=3529-3529-it,"Москва, Кутузовская и еще 1 "
-147,Стажер-разработчик бэкенда (Python),https://hh.ru/vacancy/48502238?from=vacancy_search_list&query=Python,,,hh.ru,Яндекс,https://hh.ru/employer/1740,"Москва, Парк культуры"
-148,Python-разработчик/Senior Python-разработчик,https://hh.ru/vacancy/44790039?from=vacancy_search_list&query=Python,,,hh.ru,Информационное агентство России ТАСС,https://hh.ru/employer/3063,Москва
-149,Программист Python,https://hh.ru/vacancy/48527158?from=vacancy_search_list&query=Python,,,hh.ru,ООО Цифровые Сервисы,https://hh.ru/employer/5085889,Москва
-150,Senior Python Developer,https://hh.ru/vacancy/47794704?from=vacancy_search_list&query=Python,,,hh.ru,Hunt For You,https://hh.ru/employer/4456441,Москва
-151,Python Developer,https://hh.ru/vacancy/48805523?from=vacancy_search_list&query=Python,,,hh.ru,ANCOR,https://hh.ru/employer/1947314?dpt=1947314-1947314-ancor,Москва
-152,Разработчик Python (Middle),https://hh.ru/vacancy/48531983?from=vacancy_search_list&query=Python,150000.0,250000.0,hh.ru,ООО Quins,https://hh.ru/employer/660571,Москва
-153,Python + DS-ML разработчик,https://hh.ru/vacancy/48698705?from=vacancy_search_list&query=Python,,,hh.ru,"Иннотех, Группа компаний",https://hh.ru/employer/4649269,Москва
-154,Разработчик Python,https://hh.ru/vacancy/46706157?from=vacancy_search_list&query=Python,,,hh.ru,Банк ВТБ (ПАО),https://hh.ru/employer/4181,Москва
-155,Python разработчик,https://hh.ru/vacancy/47041312?from=vacancy_search_list&query=Python,,,hh.ru,ООО Строительный Двор,https://hh.ru/employer/665449,Москва
-156,Разработчик Python,https://hh.ru/vacancy/46912402?from=vacancy_search_list&query=Python,,,hh.ru,ООО ГПМ РТВ,https://hh.ru/employer/2155808?dpt=2155808-2155808-gpm,Москва
-157,Разработчик Python,https://hh.ru/vacancy/48463982?from=vacancy_search_list&query=Python,,400000.0,hh.ru,AGIMA,https://hh.ru/employer/238354,"Москва, Чеховская"
-158,Python Developer,https://hh.ru/vacancy/48623262?from=vacancy_search_list&query=Python,,,hh.ru,ООО ИЦ АЙ-ТЕКО,https://hh.ru/employer/872178,Москва
-159,Аналитик-разработчик Python,https://hh.ru/vacancy/47912355?from=vacancy_search_list&query=Python,,,hh.ru,Тинькофф,https://hh.ru/employer/78638,"Москва, Водный стадион"
-160,Программист Python Django,https://hh.ru/vacancy/48413507?from=vacancy_search_list&query=Python,80000.0,,hh.ru,beei.ai,https://hh.ru/employer/5761942,Москва
-161,Python developer,https://hh.ru/vacancy/47757929?from=vacancy_search_list&query=Python,,,hh.ru,Леруа Мерлен. Центральный офис,https://hh.ru/employer/8582?dpt=8582-8582-lmofis,Москва
-162,Python Developer,https://hh.ru/vacancy/48430593?from=vacancy_search_list&query=Python,,350000.0,hh.ru,ООО КонсалтПро,https://hh.ru/employer/4780580,"Москва, Кутузовская и еще 1 "
-163,Python-разработчик (Django),https://hh.ru/vacancy/48395739?from=vacancy_search_list&query=Python,,,hh.ru,ПАО «МТС» ,https://hh.ru/employer/3776?dpt=mts-3776-main,"Москва, Трубная и еще 1 "
-164,Senior Python developer,https://hh.ru/vacancy/48297901?from=vacancy_search_list&query=Python,278000.0,417000.0,hh.ru,TeamDirector,https://hh.ru/employer/4329042,Москва
-165,Python Developer,https://hh.ru/vacancy/48439825?from=vacancy_search_list&query=Python,,,hh.ru,Сбер. IT,https://hh.ru/employer/3529?dpt=3529-3529-it,Москва
-166,Full-stack Python,https://hh.ru/vacancy/46754461?from=vacancy_search_list&query=Python,,,hh.ru,ПАО БАНК УРАЛСИБ,https://hh.ru/employer/89,Москва
-167,Разработчик Python / Django,https://hh.ru/vacancy/48220676?from=vacancy_search_list&query=Python,60000.0,,hh.ru,ФКУ Спеццентр МЧС России,https://hh.ru/employer/2179755,"Москва, Славянский бульвар"
-168,Разработчик Python (backend),https://hh.ru/vacancy/45157245?from=vacancy_search_list&query=Python,80000.0,150000.0,hh.ru,"АО Точных Приборов, НИИ",https://hh.ru/employer/154979,"Москва, Ботанический сад и еще 1 "
-169,Python-разработчик,https://hh.ru/vacancy/48493498?from=vacancy_search_list&query=Python,,,hh.ru,Сбер. IT,https://hh.ru/employer/3529?dpt=3529-3529-it,"Москва, Кутузовская"
-170,Разработчик Python/Scala,https://hh.ru/vacancy/46833140?from=vacancy_search_list&query=Python,,,hh.ru,"ПАО МегаФон, Офис",https://hh.ru/employer/3127?dpt=mgfn-3127-office,Москва
-171,Разработчик Python/Django,https://hh.ru/vacancy/48381095?from=vacancy_search_list&query=Python,,,hh.ru,Код Безопасности,https://hh.ru/employer/2562304,Москва
-172,Разработчик Python,https://hh.ru/vacancy/48300985?from=vacancy_search_list&query=Python,,180000.0,hh.ru,ООО ИЦ АЙ-ТЕКО,https://hh.ru/employer/872178,Москва
-173,Программист Python (Webscanner),https://hh.ru/vacancy/48310679?from=vacancy_search_list&query=Python,,,hh.ru,Positive Technologies,https://hh.ru/employer/26624,Москва
-174,Разработчик Python,https://hh.ru/vacancy/48347324?from=vacancy_search_list&query=Python,,,hh.ru,Selecty,https://hh.ru/employer/2406247,Москва
-175,Data engineer (Python Hadoop Spark),https://hh.ru/vacancy/48403574?from=vacancy_search_list&query=Python,,,hh.ru,X5 RETAIL GROUP,https://hh.ru/employer/4233,Москва
-176,Backend Developer (Python),https://hh.ru/vacancy/48291321?from=vacancy_search_list&query=Python,150000.0,300000.0,hh.ru,"РОССТ, РА",https://hh.ru/employer/52819,"Москва, Бауманская"
-177,Python разработчик,https://hh.ru/vacancy/48287423?from=vacancy_search_list&query=Python,,,hh.ru,QSOFT,https://hh.ru/employer/4006,"Москва, Китай-город и еще 1 "
-178,Разработчик Python,https://hh.ru/vacancy/48502842?from=vacancy_search_list&query=Python,,,hh.ru,АО Русатом Инфраструктурные Решения,https://hh.ru/employer/1305791,"Москва, Павелецкая и еще 1 "
-179,Golang/Python разработчик,https://hh.ru/vacancy/48343865?from=vacancy_search_list&query=Python,100000.0,200000.0,hh.ru,GIC,https://hh.ru/employer/1803303,Москва
-180,Специалист по тестированию в команду Clickme,https://hh.ru/vacancy/48336664?from=vacancy_search_list&query=Python,,,hh.ru,HeadHunter::QA,https://hh.ru/employer/1455?dpt=hh-1455-QA,"Москва, Алексеевская"
-181,QA Engineer,https://hh.ru/vacancy/47989043?from=vacancy_search_list&query=Python,,,hh.ru,JuicyScore,https://hh.ru/employer/2968394,Москва
-182,QA в команды инфрастуктуры frontend и безопасности,https://hh.ru/vacancy/47892571?from=vacancy_search_list&query=Python,,,hh.ru,HeadHunter::QA,https://hh.ru/employer/1455?dpt=hh-1455-QA,"Москва, Алексеевская"
-183,Специалист по тестированию,https://hh.ru/vacancy/40585500?from=vacancy_search_list&query=Python,,,hh.ru,HeadHunter::QA,https://hh.ru/employer/1455?dpt=hh-1455-QA,"Москва, Алексеевская"
-184,DevOps - инженер в Сбере,https://hh.ru/vacancy/47300834?from=vacancy_search_list&query=Python,,,hh.ru,Сбер. IT,https://hh.ru/employer/3529?dpt=3529-3529-it,Москва
-185,DevOps - инженер в Сбере,https://hh.ru/vacancy/47300835?from=vacancy_search_list&query=Python,,,hh.ru,Сбер. IT,https://hh.ru/employer/3529?dpt=3529-3529-it,Москва
-186,DevOps - инженер в Сбере,https://hh.ru/vacancy/47300838?from=vacancy_search_list&query=Python,,,hh.ru,Сбер. IT,https://hh.ru/employer/3529?dpt=3529-3529-it,Москва
-187,Product Analyst в Marketing,https://hh.ru/vacancy/48726248?from=vacancy_search_list&query=Python,180000.0,250000.0,hh.ru,Skyeng,https://hh.ru/employer/1122462,Москва
-188,TeamLead Java (Clickme),https://hh.ru/vacancy/48789092?from=vacancy_search_list&query=Python,,,hh.ru,HeadHunter::Backend,https://hh.ru/employer/1455?dpt=hh-1455-Backend,"Москва, Алексеевская"
-189,Специалист службы поддержки с техническими знаниями (Умные устройства),https://hh.ru/vacancy/48036812?from=vacancy_search_list&query=Python,15000.0,,hh.ru,Яндекс,https://hh.ru/employer/1740,Москва
-190,Manual QA Engineer ‎(World of Tanks Blitz)‎,https://hh.ru/vacancy/46127413?from=vacancy_search_list&query=Python,,,hh.ru,"Wargaming, Moscow",https://hh.ru/employer/662769?dpt=662769-662769-moscow,Москва
-191,Data Scientist (команда Поиска),https://hh.ru/vacancy/46048820?from=vacancy_search_list&query=Python,,,hh.ru,HeadHunter::Analytics/Data Science,https://hh.ru/employer/1455?dpt=hh-1455-ds,"Москва, Алексеевская"
-192,Аналитик направления цифрового маркетинга (BI\SQL\Python),https://hh.ru/vacancy/48337321?from=vacancy_search_list&query=Python,170000.0,210000.0,hh.ru,HeadHunter:: IT,https://hh.ru/employer/1455?dpt=hh-1455-IT,"Москва, Алексеевская"
-193,Lead DevOps Engineer,https://hh.ru/vacancy/49077196?from=vacancy_search_list&query=Python,,,hh.ru,Betby,https://hh.ru/employer/3870857,Москва
-194,Инженер электроник (IT),https://hh.ru/vacancy/49077744?from=vacancy_search_list&query=Python,110000.0,,hh.ru,ООО Некс-Т,https://hh.ru/employer/2392338,"Москва, Текстильщики"
-195,Information Security Engineer (SOC),https://hh.ru/vacancy/45433121?from=vacancy_search_list&query=Python,,,hh.ru,"Wargaming, Moscow",https://hh.ru/employer/662769?dpt=662769-662769-moscow,Москва
-196,Специалист по производительности / Администратор БД Oracle,https://hh.ru/vacancy/49021375?from=vacancy_search_list&query=Python,,,hh.ru,Альфа-Банк. Digital & IT,https://hh.ru/employer/80?dpt=80-80-it,"Москва, Технопарк"
-197,Data - инженер,https://hh.ru/vacancy/48927705?from=vacancy_search_list&query=Python,,,hh.ru,Сбер. Data Science,https://hh.ru/employer/3529?dpt=3529-3529-data,Москва
-198,Инженер сопровождения сайта,https://hh.ru/vacancy/48584291?from=vacancy_search_list&query=Python,,,hh.ru,Альфа-Банк. Digital & IT,https://hh.ru/employer/80?dpt=80-80-it,"Москва, Технопарк"
-199,Инженер сопровождения каналов коммуникации,https://hh.ru/vacancy/48584313?from=vacancy_search_list&query=Python,,,hh.ru, Альфа-Банк,https://hh.ru/employer/80?dpt=80-80-bank,"Москва, Технопарк"
-200,Разработчик Middle Java/Python (удаленка),https://hh.ru/vacancy/49087104?from=vacancy_search_list&query=Python,,250000.0,hh.ru,Wanted,https://hh.ru/employer/5174849,Москва
-201,Сетевой инженер - разработчик Python,https://hh.ru/vacancy/48361232?from=vacancy_search_list&query=Python,,,hh.ru,"САТЕЛ, Группа компаний",https://hh.ru/employer/760,Москва
-202,Junior Data Scientist (Специалист по анализу данных),https://hh.ru/vacancy/49044672?from=vacancy_search_list&query=Python,,,hh.ru,ООО АлгоМост,https://hh.ru/employer/1543971,Москва
-203,Middle/Senior Python разработчик,https://hh.ru/vacancy/47474397?from=vacancy_search_list&query=Python,,,hh.ru,USETECH,https://hh.ru/employer/681672,"Москва, Павелецкая и еще 1 "
-204,Senior Python Developer (DS направление),https://hh.ru/vacancy/46346489?from=vacancy_search_list&query=Python,,,hh.ru,Домклик,https://hh.ru/employer/2136954,"Москва, Кутузовская"
-205,Middle Python developer (релокация в Сочи),https://hh.ru/vacancy/48698686?from=vacancy_search_list&query=Python,150000.0,,hh.ru,ООО Колл-Тулз,https://hh.ru/employer/2812305,Москва
-206,Программист / Разработчик Python/Django Middle,https://hh.ru/vacancy/48991589?from=vacancy_search_list&query=Python,80000.0,150000.0,hh.ru,CATAPULTO.RU,https://hh.ru/employer/1776381,"Москва, Павелецкая и еще 1 "
-207,Разработчик Python (middle+),https://hh.ru/vacancy/48365081?from=vacancy_search_list&query=Python,,,hh.ru,Лига Цифровой Экономики,https://hh.ru/employer/2733062,"Москва, Савеловская"
-208,QA engineer (Python) - dbAces,https://hh.ru/vacancy/48624212?from=vacancy_search_list&query=Python,,,hh.ru,Deutsche Bank Technology Center,https://hh.ru/employer/1641540,"Москва, Новокузнецкая и еще 2 "
-209,Python-разработчик со знанием Storage (команда IaaS),https://hh.ru/vacancy/46573584?from=vacancy_search_list&query=Python,,,hh.ru,"VK, Решения для бизнеса",https://hh.ru/employer/15478?dpt=mailru-15478-rdb,Москва
-210,Python Backend Developer / WEB - разработчик,https://hh.ru/vacancy/46123925?from=vacancy_search_list&query=Python,185000.0,,hh.ru,ООО Перфект Системс,https://hh.ru/employer/1713030,Москва
-211,Data scientist,https://hh.ru/vacancy/47126604?from=vacancy_search_list&query=Python,,,hh.ru,Мокка,https://hh.ru/employer/1220357,"Москва, Тульская"
-212,Senior Backend developer Python,https://hh.ru/vacancy/48052212?from=vacancy_search_list&query=Python,,,hh.ru,Instories,https://hh.ru/employer/4069546,Москва
-213,Middle/Senior Разработчик Python,https://hh.ru/vacancy/47733827?from=vacancy_search_list&query=Python,,,hh.ru,ООО НТ Прогресс,https://hh.ru/employer/2283457,"Москва, Автозаводская"
-214,Инженер по автоматизации тестирования (QA) / Python разработчик,https://hh.ru/vacancy/48146743?from=vacancy_search_list&query=Python,,,hh.ru,ООО Основа Лаб,https://hh.ru/employer/37471,"Москва, Бауманская и еще 2 "
-215,Middle/Senior Python разработчик,https://hh.ru/vacancy/44779981?from=vacancy_search_list&query=Python,,,hh.ru,QIWI,https://hh.ru/employer/3125,"Москва, Чертановская"
-216,Инженер-разработчик Python,https://hh.ru/vacancy/46367489?from=vacancy_search_list&query=Python,,,hh.ru,S8 Capital,https://hh.ru/employer/3565331,Москва
-217,Data Engineer,https://hh.ru/vacancy/48696796?from=vacancy_search_list&query=Python,137000.0,,hh.ru,Yenisei Media,https://hh.ru/employer/3720758,Москва
-218,"Senior/Middle backend-разработчик (Python, Django)",https://hh.ru/vacancy/43298031?from=vacancy_search_list&query=Python,180000.0,250000.0,hh.ru,Делимобиль,https://hh.ru/employer/3233751,Москва
-219,Senior Data Scientist NER (в Анапу),https://hh.ru/vacancy/48514801?from=vacancy_search_list&query=Python,150000.0,250000.0,hh.ru,Digital Kitchen (ООО Цифровая кухня),https://hh.ru/employer/4425101,Москва
-220,Senior Software Engineer (Python),https://hh.ru/vacancy/45217475?from=vacancy_search_list&query=Python,,,hh.ru,Schaffhausen Institute of Technology,https://hh.ru/employer/5022461,Москва
-221,Python middle backend developer,https://hh.ru/vacancy/49031077?from=vacancy_search_list&query=Python,,,hh.ru,ООО Соушиал Линкс,https://hh.ru/employer/2363532,"Москва, Калужская"
-222,"Cloud Data Scientist (AWS, remote)",https://hh.ru/vacancy/47414035?from=vacancy_search_list&query=Python,300000.0,,hh.ru,ООО ClearScale,https://hh.ru/employer/1574063,Москва
-223,Middle/Senior Data Scientist (Recommender Systems),https://hh.ru/vacancy/46476387?from=vacancy_search_list&query=Python,220000.0,300000.0,hh.ru,FUNCORP,https://hh.ru/employer/1212374,"Москва, Белорусская"
-224,Программист / Разработчик Python/Django Junior,https://hh.ru/vacancy/48991275?from=vacancy_search_list&query=Python,50000.0,90000.0,hh.ru,CATAPULTO.RU,https://hh.ru/employer/1776381,"Москва, Павелецкая и еще 1 "
-225,Data Scientist / Аналитик Data Science,https://hh.ru/vacancy/48709110?from=vacancy_search_list&query=Python,,,hh.ru,Forecsys,https://hh.ru/employer/14896,"Москва, Академическая"
-226,Junior Data Engineer,https://hh.ru/vacancy/48371178?from=vacancy_search_list&query=Python,,,hh.ru,Westwing.ru,https://hh.ru/employer/886263,Москва
-227,Удаленный стажер-разработчик (парсинг данных),https://hh.ru/vacancy/49091017?from=vacancy_search_list&query=Python,,,hh.ru,ООО МАЙНДСЭТ,https://hh.ru/employer/3666817,Москва
-228,Data scientist,https://hh.ru/vacancy/48914926?from=vacancy_search_list&query=Python,,,hh.ru,Hyper AdTech,https://hh.ru/employer/4855149,"Москва, Улица 1905 года"
-229,Ведущий разработчик back-end / разработчик (Python),https://hh.ru/vacancy/48405626?from=vacancy_search_list&query=Python,,,hh.ru,"DataLine, Компания",https://hh.ru/employer/210154,"Москва, Авиамоторная и еще 3 "
-230,Data Engineer,https://hh.ru/vacancy/49076838?from=vacancy_search_list&query=Python,139000.0,208000.0,hh.ru,B9,https://hh.ru/employer/5810420,Москва
-231,Специалист Data Science,https://hh.ru/vacancy/46857375?from=vacancy_search_list&query=Python,100000.0,200000.0,hh.ru,ООО Селфсек,https://hh.ru/employer/4920624,"Москва, Трубная и еще 2 "
-232,Аналитик данных (Middle/Senior Data Scientist),https://hh.ru/vacancy/49029665?from=vacancy_search_list&query=Python,,,hh.ru,ООО Открытые решения,https://hh.ru/employer/625615,Москва
-233,QA Engineer Python (Тестировщик),https://hh.ru/vacancy/46473409?from=vacancy_search_list&query=Python,,,hh.ru,MERLION,https://hh.ru/employer/816,Москва
-234,Data analyst / Аналитик Данных,https://hh.ru/vacancy/48257128?from=vacancy_search_list&query=Python,250000.0,,hh.ru,DataFork,https://hh.ru/employer/3319598,Москва
-235,Middle/Senior Python Developer for AlmaLinux [Remote],https://hh.ru/vacancy/49145053?from=vacancy_search_list&query=Python,,,hh.ru,Cloud Linux,https://hh.ru/employer/1245452,Москва
-236,Data Scientist (Почта),https://hh.ru/vacancy/48771688?from=vacancy_search_list&query=Python,,,hh.ru,"VK, Почтовые сервисы",https://hh.ru/employer/15478?dpt=mailru-15478-empo,"Москва, Аэропорт"
-237,"Machine Learning Researcher (Senior): CV,GAN",https://hh.ru/vacancy/48944272?from=vacancy_search_list&query=Python,200000.0,,hh.ru,ООО Тексел,https://hh.ru/employer/1763895,Москва
-238,Data scientist / Product analyst,https://hh.ru/vacancy/48276976?from=vacancy_search_list&query=Python,200000.0,,hh.ru,Bip.ru,https://hh.ru/employer/2652595,"Москва, Бауманская"
-239,Senior data scientist,https://hh.ru/vacancy/48218021?from=vacancy_search_list&query=Python,,,hh.ru,Доценко Дарья,https://hh.ru/employer/4683890,Москва
-240,Инженер по автоматизации тестирования-стажер (Python),https://hh.ru/vacancy/49106004?from=vacancy_search_list&query=Python,,,hh.ru,ПАО МТС Банк. Начало Карьеры,https://hh.ru/employer/4496?dpt=4496-4496-stud,"Москва, Технопарк"
-241,Junior Data-аналитик / Аналитик данных / Data Analyst,https://hh.ru/vacancy/48236458?from=vacancy_search_list&query=Python,,,hh.ru,Ужин Дома,https://hh.ru/employer/1642130,"Москва, Нижегородская и еще 3 "
-242,Data analyst/data engineer,https://hh.ru/vacancy/49152182?from=vacancy_search_list&query=Python,,,hh.ru,Домклик,https://hh.ru/employer/2136954,"Москва, Кутузовская"
-243,Senior Software Engineer,https://hh.ru/vacancy/48635471?from=vacancy_search_list&query=Python,417000.0,695000.0,hh.ru,Top Remote Talent,https://hh.ru/employer/4955407,Москва
-244,Data scientist (Junior/Middle) в консалтинг,https://hh.ru/vacancy/48858105?from=vacancy_search_list&query=Python,,,hh.ru,ООО БСТ Менеджмент-Консалтинг,https://hh.ru/employer/2724615,Москва
-245,Back-end Developer (Кипр),https://hh.ru/vacancy/47296956?from=vacancy_search_list&query=Python,282000.0,443000.0,hh.ru,Helio Games,https://hh.ru/employer/3320350,Москва
-246,Python Web Developer (full stack),https://hh.ru/vacancy/49150518?from=vacancy_search_list&query=Python,,,hh.ru,"Компания «СПОРТМАСТЕР», SM Lab",https://hh.ru/employer/2343?dpt=2343-2343-it,"Москва, Аэропорт"
-247,Data Engineer,https://hh.ru/vacancy/45396149?from=vacancy_search_list&query=Python,,400000.0,hh.ru,ГК АСНА,https://hh.ru/employer/688647,"Москва, Ботанический сад"
-248,Data Scientist,https://hh.ru/vacancy/49104399?from=vacancy_search_list&query=Python,,,hh.ru,"МАГНИТ, Розничная сеть",https://hh.ru/employer/49357,Москва
-249,Аналитик данных,https://hh.ru/vacancy/48487677?from=vacancy_search_list&query=Python,,,hh.ru,Домклик,https://hh.ru/employer/2136954,"Москва, Кутузовская"
-250,Разработчик информационных систем на Oracle/python,https://hh.ru/vacancy/48168121?from=vacancy_search_list&query=Python,,,hh.ru,АНО ВО МОСКОВСКИЙ МЕЖДУНАРОДНЫЙ УНИВЕРСИТЕТ,https://hh.ru/employer/48553,"Москва, Белорусская"
-251,Python Team Lead,https://hh.ru/vacancy/49010894?from=vacancy_search_list&query=Python,,,hh.ru,ООО Интерсофт,https://hh.ru/employer/4156686,"Москва, Дмитровская"
-252,"EData Delivery Analyst (SQL, Python)",https://hh.ru/vacancy/49130894?from=vacancy_search_list&query=Python,,,hh.ru,NielsenIQ,https://hh.ru/employer/257,Москва
-253,Senior/Middle Test Automation Engineer/QA (Python),https://hh.ru/vacancy/48981579?from=vacancy_search_list&query=Python,,,hh.ru,ООО СофтПро,https://hh.ru/employer/3230802,"Москва, Курская и еще 3 "
-254,"Full-stack Разработчик (Python, Javascript)",https://hh.ru/vacancy/49006992?from=vacancy_search_list&query=Python,,,hh.ru,Wargaming St. Petersburg (Lesta Studio),https://hh.ru/employer/856498,"Москва, Савеловская и еще 2 "
-255,Junior HFT Quant Trader / Data Scientist Orion Systematic AG,https://hh.ru/vacancy/48972650?from=vacancy_search_list&query=Python,100000.0,200000.0,hh.ru,ООО НОВОТЕХ,https://hh.ru/employer/3835224,Москва
-256,Backend-разработчик в Evrone (Ruby),https://hh.ru/vacancy/48467436?from=vacancy_search_list&query=Python,,340000.0,hh.ru,evrone.ru,https://hh.ru/employer/598471,Москва
-257,Senior Software Engineer (Python + Open edX),https://hh.ru/vacancy/45603878?from=vacancy_search_list&query=Python,,,hh.ru,Schaffhausen Institute of Technology,https://hh.ru/employer/5022461,Москва
-258,Разработчик нейронных сетей (Computer Vision Engineer),https://hh.ru/vacancy/49003941?from=vacancy_search_list&query=Python,,,hh.ru,ООО ВойсЛинк,https://hh.ru/employer/2584006,"Москва, Тимирязевская и еще 2 "
-259,Backend-разработчик,https://hh.ru/vacancy/48089925?from=vacancy_search_list&query=Python,150000.0,,hh.ru,Наймиум,https://hh.ru/employer/4940016,Москва
-260,Senior Python Developer (Tech lead),https://hh.ru/vacancy/47608994?from=vacancy_search_list&query=Python,,,hh.ru,ООО Эвокарго,https://hh.ru/employer/4751605,"Москва, Алексеевская"
-261,Software Development Engineer in Test Python (KATA),https://hh.ru/vacancy/49115194?from=vacancy_search_list&query=Python,,,hh.ru,Лаборатория Касперского,https://hh.ru/employer/1057,"Москва, Водный стадион"
-262,Senior Data engineer,https://hh.ru/vacancy/48751172?from=vacancy_search_list&query=Python,,,hh.ru,Мокка,https://hh.ru/employer/1220357,"Москва, Тульская"
-263,Data Engineer,https://hh.ru/vacancy/48737536?from=vacancy_search_list&query=Python,,,hh.ru,АДВ,https://hh.ru/employer/1994,Москва
-264,Data scientist / Senior data scientist,https://hh.ru/vacancy/47771885?from=vacancy_search_list&query=Python,,,hh.ru,"Компания «СПОРТМАСТЕР», SM Lab",https://hh.ru/employer/2343?dpt=2343-2343-it,"Москва, Аэропорт"
-265,Data Scientist (Middle),https://hh.ru/vacancy/47765295?from=vacancy_search_list&query=Python,140000.0,160000.0,hh.ru,ООО Строительный Двор,https://hh.ru/employer/665449,Москва
-266,Data Analyst,https://hh.ru/vacancy/48708327?from=vacancy_search_list&query=Python,160000.0,220000.0,hh.ru,ООО LetyShops,https://hh.ru/employer/2482976,"Москва, Дмитровская"
-267,Разработчик C/C++,https://hh.ru/vacancy/47888320?from=vacancy_search_list&query=Python,,200000.0,hh.ru,Betterstore,https://hh.ru/employer/4693840,"Москва, Шаболовская"
-268,Middle Python-Developer (Руководитель команды разработки),https://hh.ru/vacancy/47530291?from=vacancy_search_list&query=Python,,,hh.ru,ООО Соушиал Линкс,https://hh.ru/employer/2363532,"Москва, Калужская"
-269,Devops инженер,https://hh.ru/vacancy/49041641?from=vacancy_search_list&query=Python,,350000.0,hh.ru,ООО Просенс,https://hh.ru/employer/2470301,Москва
-270,Senior Python Web Developer (Django/Flask),https://hh.ru/vacancy/49092731?from=vacancy_search_list&query=Python,,,hh.ru,Ingram Micro,https://hh.ru/employer/7643,"Москва, Белорусская"
-271,Senior Data Analyst (ML),https://hh.ru/vacancy/48651814?from=vacancy_search_list&query=Python,,,hh.ru,Qlean,https://hh.ru/employer/1576236,"Москва, Савеловская"
-272,Разработчик баз данных,https://hh.ru/vacancy/49131771?from=vacancy_search_list&query=Python,,,hh.ru,WILDBERRIES,https://hh.ru/employer/87021,Москва
-273,Data engineer (Big Data),https://hh.ru/vacancy/48405123?from=vacancy_search_list&query=Python,,,hh.ru,Tele2,https://hh.ru/employer/4219,Москва
-274,Quantitative Researcher,https://hh.ru/vacancy/48381018?from=vacancy_search_list&query=Python,250000.0,,hh.ru,Alber Blanc,https://hh.ru/employer/3455245,Москва
-275,Data engineer (удаленно),https://hh.ru/vacancy/48095633?from=vacancy_search_list&query=Python,,,hh.ru,Билайн,https://hh.ru/employer/4934,Москва
-276,DevOps engineer,https://hh.ru/vacancy/47175180?from=vacancy_search_list&query=Python,347000.0,,hh.ru,NetworkOptix,https://hh.ru/employer/899854,"Москва, Бауманская и еще 1 "
-277,Разработчик Big Data,https://hh.ru/vacancy/48370619?from=vacancy_search_list&query=Python,,,hh.ru, Альфа-Банк,https://hh.ru/employer/80?dpt=80-80-bank,Москва
-278,Lead Data Scientist,https://hh.ru/vacancy/49109116?from=vacancy_search_list&query=Python,300000.0,,hh.ru,ООО Сеть Партнерств,https://hh.ru/employer/5290101,Москва
-279,"Инженер по автоматизации тестирования Python, Кастомные интеграции и селлер апи",https://hh.ru/vacancy/47219792?from=vacancy_search_list&query=Python,,,hh.ru,Ozon Информационные технологии,https://hh.ru/employer/2180?dpt=ozonru-2180-dev,"Москва, Деловой центр и еще 2 "
-280,Senior Data Scientist/ML Engineer SberDevices,https://hh.ru/vacancy/45656342?from=vacancy_search_list&query=Python,,,hh.ru,Сбер для экспертов,https://hh.ru/employer/3529?dpt=3529-3529-prof,Москва
-281,Fullstack (python+angular) разработчик,https://hh.ru/vacancy/48500030?from=vacancy_search_list&query=Python,,,hh.ru,Центр Методического Обеспечения Оптимизации Процессов Государственного Управления в Московской области,https://hh.ru/employer/3716085,Москва
-282,Senior Data Scientist/ML Engineer SberDevices,https://hh.ru/vacancy/46688716?from=vacancy_search_list&query=Python,,,hh.ru,Сбер для экспертов,https://hh.ru/employer/3529?dpt=3529-3529-prof,Москва
-283,Senior QA Engineer (Automation),https://hh.ru/vacancy/48643961?from=vacancy_search_list&query=Python,,320000.0,hh.ru,ООО КИБЕР-РОМ,https://hh.ru/employer/5599143,Москва
-284,Data Engineer,https://hh.ru/vacancy/48501169?from=vacancy_search_list&query=Python,,,hh.ru,WILDBERRIES,https://hh.ru/employer/87021,Москва
-285,Senior DataBase Developer,https://hh.ru/vacancy/48819318?from=vacancy_search_list&query=Python,250000.0,300000.0,hh.ru,Vital Partners,https://hh.ru/employer/1196681,Москва
-286,Go разработчик,https://hh.ru/vacancy/46647271?from=vacancy_search_list&query=Python,,350000.0,hh.ru,ANCOR,https://hh.ru/employer/1947314?dpt=1947314-1947314-ancor,Москва
-287,"Инженер по автоматизации тестирования Python, Логистика/Сортировка",https://hh.ru/vacancy/47391272?from=vacancy_search_list&query=Python,,,hh.ru,Ozon Информационные технологии,https://hh.ru/employer/2180?dpt=ozonru-2180-dev,"Москва, Деловой центр и еще 2 "
-288,Аналитик - исследователь,https://hh.ru/vacancy/49088276?from=vacancy_search_list&query=Python,130000.0,,hh.ru,Legal Talents,https://hh.ru/employer/5635432,Москва
-289,Программист / Ведущий программист Data Science (computer vision),https://hh.ru/vacancy/42366566?from=vacancy_search_list&query=Python,,,hh.ru,"Программный Продукт, ИТ-компания",https://hh.ru/employer/2393,"Москва, Парк Победы и еще 1 "
-290,Go (Golang) Developer (Senior\Lead),https://hh.ru/vacancy/48789591?from=vacancy_search_list&query=Python,,400000.0,hh.ru,evrone.ru,https://hh.ru/employer/598471,Москва
-291,DevOps Engineer (Kubernetes) в Evrone,https://hh.ru/vacancy/48501675?from=vacancy_search_list&query=Python,,300000.0,hh.ru,evrone.ru,https://hh.ru/employer/598471,Москва
-292,Middle data scientist,https://hh.ru/vacancy/46125724?from=vacancy_search_list&query=Python,,,hh.ru,"Компания «СПОРТМАСТЕР», SM Lab",https://hh.ru/employer/2343?dpt=2343-2343-it,"Москва, Аэропорт"
-293,Разработчик BI,https://hh.ru/vacancy/48975815?from=vacancy_search_list&query=Python,200000.0,250000.0,hh.ru,ООО Студия Данных,https://hh.ru/employer/4021338,"Москва, Алексеевская"
-294,Аналитик-разработчик / Data scientist (Middle/Senior),https://hh.ru/vacancy/48252917?from=vacancy_search_list&query=Python,,,hh.ru,"Компания «СПОРТМАСТЕР», SM Lab",https://hh.ru/employer/2343?dpt=2343-2343-it,"Москва, Аэропорт"
-295,Data analyst (middle)/ Ведущий аналитик данных,https://hh.ru/vacancy/49130874?from=vacancy_search_list&query=Python,120000.0,200000.0,hh.ru,ООО Автоматизация и Консалтинг,https://hh.ru/employer/839098,Москва
-296,Junior Data Analyst - Computer Forensics,https://hh.ru/vacancy/49142401?from=vacancy_search_list&query=Python,,,hh.ru,"PwC, Департамент бизнес-консультирования",https://hh.ru/employer/1201?dpt=pwc-1201-bcon,"Москва, Белорусская"
-297,DevOps - инженер,https://hh.ru/vacancy/48205600?from=vacancy_search_list&query=Python,,200000.0,hh.ru,ООО МЕДИКАЛ НОУТ,https://hh.ru/employer/3102113,"Москва, Водный стадион"
-298,Senior Data Analyst,https://hh.ru/vacancy/48060750?from=vacancy_search_list&query=Python,200000.0,,hh.ru,AppQuantum,https://hh.ru/employer/3380507,"Москва, Автозаводская"
-299,Инженер программист (Golang),https://hh.ru/vacancy/48499259?from=vacancy_search_list&query=Python,100000.0,200000.0,hh.ru,ООО ФАЙВДЖЕН,https://hh.ru/employer/4938750,Москва
-300,Python Backend Developer / WEB-разработчик,https://www.superjob.ru/vakansii/python-backend-developer-39595398.html,185000.0,185000.0,superjob.ru/,Perfect Systems,https://www.superjob.ru/clients/perfect-systems-4144490.html,Москва
-301,Senior python developer / Teamlead (Odoo),https://www.superjob.ru/vakansii/senior-python-developer-39529912.html,180000.0,,superjob.ru/,АЙКРАФТ,https://www.superjob.ru/clients/ajkraft-142735.html,"Москва, Большая Тульская улица, 43, Тульская и ещё 9 станций"
-302,Разработчик Python,https://www.superjob.ru/vakansii/razrabotchik-python-39276300.html,240000.0,300000.0,superjob.ru/,1ceo,https://www.superjob.ru/clients/1ceo-3452756.html,Москва
-303,Программист Python,https://www.superjob.ru/vakansii/programmist-python-39366981.html,120000.0,,superjob.ru/,Фирма ВОДОКОМФОРТ,https://www.superjob.ru/clients/firma-vodokomfort-37863.html,Москва
-304,Python Django fullstack разработчик,https://www.superjob.ru/vakansii/python-django-fullstack-razrabotchik-39274896.html,,200000.0,superjob.ru/,Алекс Персонал,https://www.superjob.ru/clients/aleks-personal-3907968.html,Москва
-305,Старший системный интегратор / Senior Разработчик Python,https://www.superjob.ru/vakansii/starshij-sistemnyj-integrator-39272138.html,140000.0,170000.0,superjob.ru/,Робот Карл,https://www.superjob.ru/clients/robot-karl-3937840.html,Москва
-306,Разработчик Python + DS ML,https://www.superjob.ru/vakansii/razrabotchik-python-39527128.html,,250000.0,superjob.ru/,Lion Recruitment,https://www.superjob.ru/clients/lion-recruitment-4146235.html,Москва
-307,Middle Python QA Engineer,https://www.superjob.ru/vakansii/middle-python-qa-engineer-39416782.html,,150000.0,superjob.ru/,ГОУ Высшее профессиональное образование Государственный университет - Высшая школа экономики,https://www.superjob.ru/clients/gou-vysshee-professionalnoe-obrazovanie-gosudarstvennyj-universitet---vysshaya-shkola-ekonomiki-59436.html,"Москва, Мясницкая улица, 11"
-308,Python developer,https://www.superjob.ru/vakansii/python-developer-39307397.html,120000.0,140000.0,superjob.ru/,Базис1,https://www.superjob.ru/clients/bazis1-4212188.html,"Москва, улица Орджоникидзе, 11с44"
-309,Senior Python developer (Fullstack),https://www.superjob.ru/vakansii/senior-python-developer-39485242.html,260000.0,320000.0,superjob.ru/,БиДжи,https://www.superjob.ru/clients/bidzhi-4222233.html,Москва
-310,"Бэкенд-разработчик (Python, удаленная работа)",https://www.superjob.ru/vakansii/bekend-razrabotchik-39565873.html,,220000.0,superjob.ru/,"""Авиакомпания ""ЮТэйр""",https://www.superjob.ru/clients/aviakompaniya-yutejr-239795.html,Москва
-311,Python разработчик (middle +),https://www.superjob.ru/vakansii/python-razrabotchik-39302335.html,,180000.0,superjob.ru/,МЕДИКАЛ НОУТ,https://www.superjob.ru/clients/medikal-nout-3934279.html,"Москва, Замоскворецкая линия, метро Водный стадион, Водный стадион"
-312,Старший разработчик Python,https://www.superjob.ru/vakansii/starshij-razrabotchik-python-39531755.html,240000.0,300000.0,superjob.ru/,1ceo,https://www.superjob.ru/clients/1ceo-3452756.html,Москва
-313,Senior Python Developer / Data Engineer,https://www.superjob.ru/vakansii/senior-python-developer-39416755.html,,300000.0,superjob.ru/,ГОУ Высшее профессиональное образование Государственный университет - Высшая школа экономики,https://www.superjob.ru/clients/gou-vysshee-professionalnoe-obrazovanie-gosudarstvennyj-universitet---vysshaya-shkola-ekonomiki-59436.html,"Москва, Мясницкая улица, 11"
-314,Системный администратор,https://www.superjob.ru/vakansii/sistemnyj-administrator-39289217.html,150000.0,,superjob.ru/,Эссистэнс Сервисес,https://www.superjob.ru/clients/essistens-servises-3962391.html,Москва
-315,Специалист службы поддержки с техническими знаниями (Контест),https://www.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39678861.html,15000.0,,superjob.ru/,Яндекс,https://www.superjob.ru/clients/yandeks-3237849.html,Москва
-316,Python Backend Developer / WEB-разработчик,https://www.superjob.ru/vakansii/python-backend-developer-39595398.html,185000.0,185000.0,superjob.ru/,Perfect Systems,https://www.superjob.ru/clients/perfect-systems-4144490.html,Москва
-317,Senior python developer / Teamlead (Odoo),https://www.superjob.ru/vakansii/senior-python-developer-39529912.html,180000.0,,superjob.ru/,АЙКРАФТ,https://www.superjob.ru/clients/ajkraft-142735.html,"Москва, Большая Тульская улица, 43, Тульская и ещё 9 станций"
-318,Разработчик Python,https://www.superjob.ru/vakansii/razrabotchik-python-39276300.html,240000.0,300000.0,superjob.ru/,1ceo,https://www.superjob.ru/clients/1ceo-3452756.html,Москва
-319,Программист Python,https://www.superjob.ru/vakansii/programmist-python-39366981.html,120000.0,,superjob.ru/,Фирма ВОДОКОМФОРТ,https://www.superjob.ru/clients/firma-vodokomfort-37863.html,Москва
-320,Python Django fullstack разработчик,https://www.superjob.ru/vakansii/python-django-fullstack-razrabotchik-39274896.html,,200000.0,superjob.ru/,Алекс Персонал,https://www.superjob.ru/clients/aleks-personal-3907968.html,Москва
-321,Старший системный интегратор / Senior Разработчик Python,https://www.superjob.ru/vakansii/starshij-sistemnyj-integrator-39272138.html,140000.0,170000.0,superjob.ru/,Робот Карл,https://www.superjob.ru/clients/robot-karl-3937840.html,Москва
-322,Разработчик Python + DS ML,https://www.superjob.ru/vakansii/razrabotchik-python-39527128.html,,250000.0,superjob.ru/,Lion Recruitment,https://www.superjob.ru/clients/lion-recruitment-4146235.html,Москва
-323,Middle Python QA Engineer,https://www.superjob.ru/vakansii/middle-python-qa-engineer-39416782.html,,150000.0,superjob.ru/,ГОУ Высшее профессиональное образование Государственный университет - Высшая школа экономики,https://www.superjob.ru/clients/gou-vysshee-professionalnoe-obrazovanie-gosudarstvennyj-universitet---vysshaya-shkola-ekonomiki-59436.html,"Москва, Мясницкая улица, 11"
-324,Python developer,https://www.superjob.ru/vakansii/python-developer-39307397.html,120000.0,140000.0,superjob.ru/,Базис1,https://www.superjob.ru/clients/bazis1-4212188.html,"Москва, улица Орджоникидзе, 11с44"
-325,Senior Python developer (Fullstack),https://www.superjob.ru/vakansii/senior-python-developer-39485242.html,260000.0,320000.0,superjob.ru/,БиДжи,https://www.superjob.ru/clients/bidzhi-4222233.html,Москва
-326,"Бэкенд-разработчик (Python, удаленная работа)",https://www.superjob.ru/vakansii/bekend-razrabotchik-39565873.html,,220000.0,superjob.ru/,"""Авиакомпания ""ЮТэйр""",https://www.superjob.ru/clients/aviakompaniya-yutejr-239795.html,Москва
-327,Python разработчик (middle +),https://www.superjob.ru/vakansii/python-razrabotchik-39302335.html,,180000.0,superjob.ru/,МЕДИКАЛ НОУТ,https://www.superjob.ru/clients/medikal-nout-3934279.html,"Москва, Замоскворецкая линия, метро Водный стадион, Водный стадион"
-328,Старший разработчик Python,https://www.superjob.ru/vakansii/starshij-razrabotchik-python-39531755.html,240000.0,300000.0,superjob.ru/,1ceo,https://www.superjob.ru/clients/1ceo-3452756.html,Москва
-329,Senior Python Developer / Data Engineer,https://www.superjob.ru/vakansii/senior-python-developer-39416755.html,,300000.0,superjob.ru/,ГОУ Высшее профессиональное образование Государственный университет - Высшая школа экономики,https://www.superjob.ru/clients/gou-vysshee-professionalnoe-obrazovanie-gosudarstvennyj-universitet---vysshaya-shkola-ekonomiki-59436.html,"Москва, Мясницкая улица, 11"
-330,Системный администратор,https://www.superjob.ru/vakansii/sistemnyj-administrator-39289217.html,150000.0,,superjob.ru/,Эссистэнс Сервисес,https://www.superjob.ru/clients/essistens-servises-3962391.html,Москва
-331,Специалист службы поддержки с техническими знаниями (Контест),https://www.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39678861.html,15000.0,,superjob.ru/,Яндекс,https://www.superjob.ru/clients/yandeks-3237849.html,Москва
-332,QA Automation Engineer,https://www.superjob.ru/vakansii/qa-automation-engineer-39283375.html,100000.0,,superjob.ru/,Лидер тестирования,https://www.superjob.ru/clients/lider-testirovaniya-4135178.html,Москва
-333,Senior Java developer,https://www.superjob.ru/vakansii/senior-java-developer-39469930.html,300000.0,,superjob.ru/,БиДжи,https://www.superjob.ru/clients/bidzhi-4222233.html,Москва
-334,Системный администратор Linux,https://www.superjob.ru/vakansii/sistemnyj-administrator-linux-39593415.html,150000.0,150000.0,superjob.ru/,COZY HOME,https://www.superjob.ru/clients/cozy-home-2942737.html,"Москва, Ленинградский проспект, 80к37"
-335,Разработчик SQL,https://www.superjob.ru/vakansii/razrabotchik-sql-38468654.html,150000.0,150000.0,superjob.ru/,Первая Экспедиционная Компания,https://www.superjob.ru/clients/pervaya-ekspedicionnaya-kompaniya-155201.html,"Москва, 1-й Вязовский проезд, Кузьминки и ещё 9 станций"
-336,Инженер-программист,https://www.superjob.ru/vakansii/inzhener-programmist-39369482.html,,90000.0,superjob.ru/,,,"Москва, Тимирязевская улица, 1стр2, Дмитровская"
-337,Специалист службы поддержки (с техническими знаниями),https://www.superjob.ru/vakansii/specialist-sluzhby-podderzhki-37984527.html,15000.0,,superjob.ru/,Яндекс,https://www.superjob.ru/clients/yandeks-3237849.html,Москва
-338,DevOps,https://www.superjob.ru/vakansii/devops-39273620.html,,150000.0,superjob.ru/,Препейд Солюшенс,https://www.superjob.ru/clients/prepejd-solyushens-4142284.html,Москва
-339,DevOps-инженер,https://www.superjob.ru/vakansii/devops-inzhener-39363287.html,200000.0,,superjob.ru/,Группа компаний МАСКОМ,https://www.superjob.ru/clients/gruppa-kompanij-maskom-173090.html,"Москва, улица Горбунова, 2с5"
-340,Ведущий программист С++,https://www.superjob.ru/vakansii/veduschij-programmist-s-39274370.html,170000.0,200000.0,superjob.ru/,Смартико,https://www.superjob.ru/clients/smartiko-2736725.html,Москва
-341,Специалист по обработке данных,https://www.superjob.ru/vakansii/specialist-po-obrabotke-dannyh-39699230.html,65000.0,80000.0,superjob.ru/,Экспертно-аналитический центр МПГУ,https://www.superjob.ru/clients/ekspertno-analiticheskij-centr-mpgu-3995258.html,"Москва, проспект Вернадского, 88"
-342,Data engineer,https://www.superjob.ru/vakansii/data-engineer-39698739.html,,400000.0,superjob.ru/,Эссистэнс Сервисес,https://www.superjob.ru/clients/essistens-servises-3962391.html,Москва
-343,Web-разработчик,https://www.superjob.ru/vakansii/web-razrabotchik-35121873.html,130000.0,,superjob.ru/,МПО Электромонтаж,https://www.superjob.ru/clients/mpo-elektromontazh-3917482.html,"Москва, Планерная улица, Планерная"
-344,Senior DevOps Engineer,https://www.superjob.ru/vakansii/senior-devops-engineer-39696103.html,450000.0,540000.0,superjob.ru/,Naviteq,https://www.superjob.ru/clients/naviteq-4233069.html,Москва
-345,DevOps Engineer,https://www.superjob.ru/vakansii/devops-engineer-39452841.html,150000.0,,superjob.ru/,БЭСТ,https://www.superjob.ru/clients/best-573407.html,"Москва, Волгоградский проспект, 32к12"
-346,Тестировщик ПО и радиоустройств,https://www.superjob.ru/vakansii/testirovschik-po-i-radioustrojstv-39444304.html,,105000.0,superjob.ru/,Смартико,https://www.superjob.ru/clients/smartiko-2736725.html,"Москва, Ленинский проспект и ещё 2 станции"
-347,Системный администратор (Windows Linux),https://www.superjob.ru/vakansii/sistemnyj-administrator-39261289.html,,100000.0,superjob.ru/,КГ ПрофиМэн,https://www.superjob.ru/clients/kg-profimen-236675.html,"Москва, Нагатинская"
-348,Системный аналитик СУМ,https://www.superjob.ru/vakansii/sistemnyj-analitik-sum-39527250.html,,300000.0,superjob.ru/,Lion Recruitment,https://www.superjob.ru/clients/lion-recruitment-4146235.html,Москва
-349,BI-аналитик (удаленно / офис),https://www.superjob.ru/vakansii/bi-analitik-39338173.html,,150000.0,superjob.ru/,Консалтинговая компания,https://www.superjob.ru/clients/konsaltingovaya-kompaniya-3826903.html,Москва
-350,Data scientist (разработка моделей оценки кредитного риска для клиентов корпоративного бизнеса),https://www.superjob.ru/vakansii/data-scientist-39527206.html,,300000.0,superjob.ru/,Lion Recruitment,https://www.superjob.ru/clients/lion-recruitment-4146235.html,Москва
-351,Программист С#,https://www.superjob.ru/vakansii/programmist-s-39514114.html,100000.0,,superjob.ru/,Технопарк «Сколково»,https://www.superjob.ru/clients/tehnopark-skolkovo-3749932.html,Москва
-352,Системный администратор,https://www.superjob.ru/vakansii/sistemnyj-administrator-38671598.html,80000.0,,superjob.ru/,ЭКО центр,https://www.superjob.ru/clients/eko-centr-71817.html,"Москва, Нагорная улица, 4А"
-353,Помощник DevOps Engineer,https://www.superjob.ru/vakansii/pomoschnik-devops-engineer-39414685.html,50000.0,,superjob.ru/,Future Search,https://www.superjob.ru/clients/future-search-4207716.html,Москва
-354,Специалист 1 разряда отдела мониторинга функционирования АИС ФНС России,https://www.superjob.ru/vakansii/specialist-1-razryada-otdela-monitoringa-funkcionirovaniya-ais-fns-rossii-38482723.html,45000.0,,superjob.ru/,МИ ФНС России по ЦОД,https://www.superjob.ru/clients/mi-fns-rossii-po-cod-2759969.html,"Москва, Походный проезд, Сходненская, Трикотажная"
-355,Администратор баз данных,https://www.superjob.ru/vakansii/administrator-baz-dannyh-39491040.html,250000.0,,superjob.ru/,КБ Проминжиниринг,https://www.superjob.ru/clients/kb-prominzhiniring-4167791.html,"Москва, улица Твардовского, 8"
-356,Backend Engineer / Data Engineer / Vision ML Engineer,https://www.superjob.ru/vakansii/backend-engineer-39492900.html,150000.0,175000.0,superjob.ru/,Longevity InTime,https://www.superjob.ru/clients/longevity-intime-4186428.html,Москва
-357,Программист,https://www.superjob.ru/vakansii/programmist-36989456.html,60000.0,,superjob.ru/,РОСРЕЕСТР Управление Росреестра по Москве,https://www.superjob.ru/clients/rosreestr-upravlenie-rosreestra-po-moskve-650116.html,"Москва, Большая Тульская улица, 15"
-358,Старший разработчик MS SQL + C#.net/удаленно,https://www.superjob.ru/vakansii/starshij-razrabotchik-ms-sql-39388444.html,,210000.0,superjob.ru/,Консалтинговая компания,https://www.superjob.ru/clients/konsaltingovaya-kompaniya-3826903.html,Москва
-359,Аналитик,https://www.superjob.ru/vakansii/analitik-39398148.html,95000.0,115000.0,superjob.ru/,Проектная дирекция Министерства строительства и жилищно-коммунального хозяйства Российской Федерации,https://www.superjob.ru/clients/proektnaya-direkciya-ministerstva-stroitelstva-i-zhilischno-kommunalnogo-hozyajstva-rossijskoj-federacii-3842206.html,"Москва, Трубная, Цветной бульвар"
-360,"QA-специалист (Тестировщик, удаленная работа)",https://www.superjob.ru/vakansii/qa-specialist-39566025.html,,110000.0,superjob.ru/,"""Авиакомпания ""ЮТэйр""",https://www.superjob.ru/clients/aviakompaniya-yutejr-239795.html,Москва
-361,DevOps-инженер,https://www.superjob.ru/vakansii/devops-inzhener-39301870.html,,200000.0,superjob.ru/,МЕДИКАЛ НОУТ,https://www.superjob.ru/clients/medikal-nout-3934279.html,"Москва, Головинское шоссе, 5к1, Водный стадион"
-362,Программист 1С,https://www.superjob.ru/vakansii/programmist-1s-39395114.html,50000.0,,superjob.ru/,Медицинский колледж № 7,https://www.superjob.ru/clients/medicinskij-kolledzh-7-2974144.html,Москва
+0,Курьер в банк (без продаж),https://hh.ru/vacancy/49132039?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,80000.0,,hh.ru,ООО ЕФИН,https://hh.ru/employer/3682876,Москва
+1,Курьер по району (свободный график),https://hh.ru/vacancy/49142501?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,50000.0,60000.0,hh.ru,ООО Курьерист,https://hh.ru/employer/1421738,Москва
+2,Водитель-курьер на автомобиле компании,https://hh.ru/vacancy/41968213?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,71500.0,100000.0,hh.ru,Pony Express,https://hh.ru/employer/7371,Москва
+3,Водитель-курьер на авто компании (любой округ Москвы на выбор),https://hh.ru/vacancy/48083079?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,120000.0,170000.0,hh.ru,ООО СТРИТ ЛОГИСТИК,https://hh.ru/employer/5167304,Москва
+4,Диспетчер по работе с курьерами,https://hh.ru/vacancy/49106526?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,,50000.0,hh.ru,Apple Concierge,https://hh.ru/employer/94488,Москва
+5,Водитель-курьер (торговый представитель) на автомобиле компании,https://hh.ru/vacancy/41094027?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,80500.0,148000.0,hh.ru,"ЦУМ, Интернет-магазин",https://hh.ru/employer/52389?dpt=tsum-52389-online,"Москва, Кузнецкий мост"
+6,Курьер в интернет-магазин,https://hh.ru/vacancy/46243766?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,40000.0,,hh.ru,Интернет-магазин AJ.ru,https://hh.ru/employer/1287228,Москва
+7,Пеший курьер,https://hh.ru/vacancy/48518603?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,50000.0,55000.0,hh.ru,Pony Express,https://hh.ru/employer/7371,Москва
+8,Пеший курьер,https://hh.ru/vacancy/48934803?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,46000.0,,hh.ru,Lamoda,https://hh.ru/employer/780654,Москва
+9,Водитель-курьер на автомобиль компании,https://hh.ru/vacancy/48990841?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,70000.0,,hh.ru,ООО Фулекс,https://hh.ru/employer/4104627,"Москва, Пражская и еще 1 "
+10,Пеший курьер,https://hh.ru/vacancy/49101531?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,53000.0,62000.0,hh.ru,Курьерская компания EncoRex,https://hh.ru/employer/4399479,Москва
+11,Водитель-курьер на автомобиле компании,https://hh.ru/vacancy/48119944?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,60000.0,,hh.ru,Lamoda,https://hh.ru/employer/780654,Москва
+12,Пеший курьер интернет-магазина,https://hh.ru/vacancy/49126663?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,45000.0,60000.0,hh.ru,ООО Посудамарт,https://hh.ru/employer/1438543,Москва
+13,Водитель-курьер,https://hh.ru/vacancy/49082178?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,95000.0,105000.0,hh.ru,СДЭК,https://hh.ru/employer/3530,Москва
+14,Водитель-курьер в интернет-магазин Кантата,https://hh.ru/vacancy/48655700?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,65000.0,80000.0,hh.ru,КАНТАТА,https://hh.ru/employer/5709,"Москва, Киевская и еще 1 "
+15,"Водитель-курьер на личном автомобиле (ВАО, САО, ЮАО, СВАО)",https://hh.ru/vacancy/47659200?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,86000.0,150000.0,hh.ru,Petshopru,https://hh.ru/employer/773401,Москва
+16,Курьер (доставка документов),https://hh.ru/vacancy/46389321?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,35000.0,55000.0,hh.ru,ООО Страховое Агентство Прогресс,https://hh.ru/employer/1892542,"Москва, Перово"
+17,Водитель-курьер на служебном автомобиле Ford Transit,https://hh.ru/vacancy/49120401?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,100000.0,130000.0,hh.ru,LogFix,https://hh.ru/employer/4764586,Москва
+18,Водитель-курьер на личном автомобиле,https://hh.ru/vacancy/49115400?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,88000.0,120000.0,hh.ru,LogFix,https://hh.ru/employer/4764586,Москва
+19,Водитель-курьер на личном автомобиле,https://hh.ru/vacancy/48803007?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,77000.0,148000.0,hh.ru,SUNLIGHT/САНЛАЙТ,https://hh.ru/employer/18239,"Москва, Мякинино и еще 3 "
+20,Водитель курьер на личном автомобиле (м. Пражская),https://hh.ru/vacancy/48255261?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,65000.0,,hh.ru,СберМаркет,https://hh.ru/employer/1272486,Москва
+21,Пеший курьер (м. Савеловская),https://hh.ru/vacancy/48255134?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,36000.0,,hh.ru,СберМаркет,https://hh.ru/employer/1272486,Москва
+22,Водитель-курьер,https://hh.ru/vacancy/48085758?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,115000.0,,hh.ru,КАСТА,https://hh.ru/employer/1174855,"Москва, Дубровка и еще 1 "
+23,Пеший курьер,https://hh.ru/vacancy/49025510?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,41300.0,,hh.ru,SUNLIGHT/САНЛАЙТ,https://hh.ru/employer/18239,"Москва, Мякинино и еще 3 "
+24,Пеший курьер,https://hh.ru/vacancy/49137592?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,50000.0,,hh.ru,ООО Доставка Клаб,https://hh.ru/employer/1900283,"Москва, Марьина Роща"
+25,Курьер в службу доставки,https://hh.ru/vacancy/49004890?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,65000.0,85000.0,hh.ru,ProfiMonsters,https://hh.ru/employer/5437803,"Москва, Добрынинская"
+26,Водитель-курьер на автомобиле компании,https://hh.ru/vacancy/49130094?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,,120000.0,hh.ru,Юду,https://hh.ru/employer/2410569,Москва
+27,Пеший курьер (м. Курская),https://hh.ru/vacancy/49017009?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,55000.0,,hh.ru,Ozon Express,https://hh.ru/employer/2180?dpt=ozonru-2180-express,"Москва, Курская и еще 2 "
+28,Водитель-курьер на автомобиле компании/личном автомобиле (м. Курская),https://hh.ru/vacancy/48126650?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,80000.0,,hh.ru,Ozon Express,https://hh.ru/employer/2180?dpt=ozonru-2180-express,"Москва, Курская и еще 2 "
+29,Водитель-курьер на личном автомобиле,https://hh.ru/vacancy/47397505?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,85000.0,120000.0,hh.ru,ООО Дио,https://hh.ru/employer/5072932,"Москва, ВДНХ"
+30,Водитель - курьер с личным автомобилем,https://hh.ru/vacancy/47582553?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,63000.0,126000.0,hh.ru,Зест-персонал,https://hh.ru/employer/21653,Москва
+31,Водитель-курьер,https://hh.ru/vacancy/49112635?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,90000.0,110000.0,hh.ru,ООО СВЕЖАЯ ДОСТАВКА,https://hh.ru/employer/2958881,"Москва, Киевская и еще 1 "
+32,Курьер в Яндекс,https://hh.ru/vacancy/49140230?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,37000.0,104000.0,hh.ru,Центр найма курьеров Яндекс,https://hh.ru/employer/4726298,"Москва, Бутырская  и еще 2 "
+33,Курьер,https://hh.ru/vacancy/45183676?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,40000.0,,hh.ru,Далли-сервис,https://hh.ru/employer/1356767,Москва
+34,Водитель-курьер на автомобиль компании,https://hh.ru/vacancy/49115492?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,100000.0,,hh.ru,LogFix,https://hh.ru/employer/4764586,Москва
+35,Водитель-курьер на личном автомобиле,https://hh.ru/vacancy/49103521?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,95000.0,,hh.ru,СДЭК,https://hh.ru/employer/3530,Москва
+36,Курьер,https://hh.ru/vacancy/45688302?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,45000.0,50000.0,hh.ru,Apple Concierge,https://hh.ru/employer/94488,"Москва, Щукинская"
+37,Водитель-курьер на автомобиле компании (м.Волгоградский пр-кт),https://hh.ru/vacancy/48729454?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,,120000.0,hh.ru,Ozon Логистика ,https://hh.ru/employer/2180?dpt=ozonru-2180-logistic,"Москва, Шоссе Энтузиастов"
+38,Водитель курьер с личным автомобилем в Ситимобил Доставку,https://hh.ru/vacancy/49135575?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,100000.0,120000.0,hh.ru,Super Mozen,https://hh.ru/employer/5293597,Москва
+39,Курьер в Яндекс Еда,https://hh.ru/vacancy/49053564?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,70000.0,150000.0,hh.ru,Космос,https://hh.ru/employer/4852646,Москва
+40,Курьер на автомобиле компании на проект Яндекс.Маркет,https://hh.ru/vacancy/49115351?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,88000.0,120000.0,hh.ru,LogFix,https://hh.ru/employer/4764586,Москва
+41,Водитель-курьер (выходного дня),https://hh.ru/vacancy/45263689?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,40000.0,,hh.ru,КАСТА,https://hh.ru/employer/1174855,Москва
+42,Курьер торгового зала,https://hh.ru/vacancy/47607350?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,42000.0,46000.0,hh.ru,"ЦУМ, Торговый зал",https://hh.ru/employer/52389?dpt=tsum-52389-sales,"Москва, Кузнецкий мост"
+43,Курьер по району (м. Братиславская),https://hh.ru/vacancy/49107863?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,60000.0,80000.0,hh.ru,Кухня на районе,https://hh.ru/employer/3127891,"Москва, Братиславская"
+44,Курьер по доставке продуктов на велосипеде,https://hh.ru/vacancy/49098492?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,75000.0,95000.0,hh.ru,ООО СТРИТ ЛОГИСТИК,https://hh.ru/employer/5167304,Москва
+45,Вечерний водитель-курьер с личным легковым автомобилем (на Север Москвы),https://hh.ru/vacancy/49028428?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,60000.0,,hh.ru,Курьерская служба GRASTIN,https://hh.ru/employer/1315104,"Москва, Кожуховская"
+46,Водитель-курьер ЗАО,https://hh.ru/vacancy/49102935?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,108000.0,,hh.ru,Logsis,https://hh.ru/employer/1807972,Москва
+47,Грузчик-курьер,https://hh.ru/vacancy/41611351?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,50000.0,65000.0,hh.ru,GetTask,https://hh.ru/employer/4769783,Москва
+48,Водитель-курьер на личном автомобиле(м.Волгоградский проспект),https://hh.ru/vacancy/48729437?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,,120000.0,hh.ru,Ozon Логистика ,https://hh.ru/employer/2180?dpt=ozonru-2180-logistic,"Москва, Кузьминки"
+49,Водитель-курьер на автомобиле компании (м.Озёрная),https://hh.ru/vacancy/48729452?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,,120000.0,hh.ru,Ozon Логистика ,https://hh.ru/employer/2180?dpt=ozonru-2180-logistic,"Москва, Раменки"
+50,Курьер в банк (без продаж),https://hh.ru/vacancy/49132039?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,80000.0,,hh.ru,ООО ЕФИН,https://hh.ru/employer/3682876,Москва
+51,Курьер по району (свободный график),https://hh.ru/vacancy/49142501?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,50000.0,60000.0,hh.ru,ООО Курьерист,https://hh.ru/employer/1421738,Москва
+52,Водитель-курьер на автомобиле компании,https://hh.ru/vacancy/41968213?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,71500.0,100000.0,hh.ru,Pony Express,https://hh.ru/employer/7371,Москва
+53,Водитель-курьер на авто компании (любой округ Москвы на выбор),https://hh.ru/vacancy/48083079?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,120000.0,170000.0,hh.ru,ООО СТРИТ ЛОГИСТИК,https://hh.ru/employer/5167304,Москва
+54,Диспетчер по работе с курьерами,https://hh.ru/vacancy/49106526?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,,50000.0,hh.ru,Apple Concierge,https://hh.ru/employer/94488,Москва
+55,Водитель-курьер (торговый представитель) на автомобиле компании,https://hh.ru/vacancy/41094027?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,80500.0,148000.0,hh.ru,"ЦУМ, Интернет-магазин",https://hh.ru/employer/52389?dpt=tsum-52389-online,"Москва, Кузнецкий мост"
+56,Курьер в интернет-магазин,https://hh.ru/vacancy/46243766?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,40000.0,,hh.ru,Интернет-магазин AJ.ru,https://hh.ru/employer/1287228,Москва
+57,Пеший курьер,https://hh.ru/vacancy/48518603?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,50000.0,55000.0,hh.ru,Pony Express,https://hh.ru/employer/7371,Москва
+58,Пеший курьер,https://hh.ru/vacancy/48934803?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,46000.0,,hh.ru,Lamoda,https://hh.ru/employer/780654,Москва
+59,Водитель-курьер на автомобиль компании,https://hh.ru/vacancy/48990841?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,70000.0,,hh.ru,ООО Фулекс,https://hh.ru/employer/4104627,"Москва, Пражская и еще 1 "
+60,Пеший курьер,https://hh.ru/vacancy/49101531?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,53000.0,62000.0,hh.ru,Курьерская компания EncoRex,https://hh.ru/employer/4399479,Москва
+61,Водитель-курьер на автомобиле компании,https://hh.ru/vacancy/48119944?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,60000.0,,hh.ru,Lamoda,https://hh.ru/employer/780654,Москва
+62,Пеший курьер интернет-магазина,https://hh.ru/vacancy/49126663?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,45000.0,60000.0,hh.ru,ООО Посудамарт,https://hh.ru/employer/1438543,Москва
+63,Водитель-курьер,https://hh.ru/vacancy/49082178?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,95000.0,105000.0,hh.ru,СДЭК,https://hh.ru/employer/3530,Москва
+64,Водитель-курьер в интернет-магазин Кантата,https://hh.ru/vacancy/48655700?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,65000.0,80000.0,hh.ru,КАНТАТА,https://hh.ru/employer/5709,"Москва, Киевская и еще 1 "
+65,"Водитель-курьер на личном автомобиле (ВАО, САО, ЮАО, СВАО)",https://hh.ru/vacancy/47659200?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,86000.0,150000.0,hh.ru,Petshopru,https://hh.ru/employer/773401,Москва
+66,Курьер (доставка документов),https://hh.ru/vacancy/46389321?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,35000.0,55000.0,hh.ru,ООО Страховое Агентство Прогресс,https://hh.ru/employer/1892542,"Москва, Перово"
+67,Водитель-курьер на служебном автомобиле Ford Transit,https://hh.ru/vacancy/49120401?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,100000.0,130000.0,hh.ru,LogFix,https://hh.ru/employer/4764586,Москва
+68,Водитель-курьер на личном автомобиле,https://hh.ru/vacancy/49115400?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,88000.0,120000.0,hh.ru,LogFix,https://hh.ru/employer/4764586,Москва
+69,Водитель-курьер на личном автомобиле,https://hh.ru/vacancy/48803007?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,77000.0,148000.0,hh.ru,SUNLIGHT/САНЛАЙТ,https://hh.ru/employer/18239,"Москва, Мякинино и еще 3 "
+70,Водитель курьер на личном автомобиле (м. Пражская),https://hh.ru/vacancy/48255261?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,65000.0,,hh.ru,СберМаркет,https://hh.ru/employer/1272486,Москва
+71,Пеший курьер (м. Савеловская),https://hh.ru/vacancy/48255134?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,36000.0,,hh.ru,СберМаркет,https://hh.ru/employer/1272486,Москва
+72,Водитель-курьер,https://hh.ru/vacancy/48085758?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,115000.0,,hh.ru,КАСТА,https://hh.ru/employer/1174855,"Москва, Дубровка и еще 1 "
+73,Пеший курьер,https://hh.ru/vacancy/49025510?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,41300.0,,hh.ru,SUNLIGHT/САНЛАЙТ,https://hh.ru/employer/18239,"Москва, Мякинино и еще 3 "
+74,Пеший курьер,https://hh.ru/vacancy/49137592?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,50000.0,,hh.ru,ООО Доставка Клаб,https://hh.ru/employer/1900283,"Москва, Марьина Роща"
+75,Курьер в службу доставки,https://hh.ru/vacancy/49004890?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,65000.0,85000.0,hh.ru,ProfiMonsters,https://hh.ru/employer/5437803,"Москва, Добрынинская"
+76,Водитель-курьер на автомобиле компании,https://hh.ru/vacancy/49130094?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,,120000.0,hh.ru,Юду,https://hh.ru/employer/2410569,Москва
+77,Пеший курьер (м. Курская),https://hh.ru/vacancy/49017009?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,55000.0,,hh.ru,Ozon Express,https://hh.ru/employer/2180?dpt=ozonru-2180-express,"Москва, Курская и еще 2 "
+78,Водитель-курьер на автомобиле компании/личном автомобиле (м. Курская),https://hh.ru/vacancy/48126650?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,80000.0,,hh.ru,Ozon Express,https://hh.ru/employer/2180?dpt=ozonru-2180-express,"Москва, Курская и еще 2 "
+79,Водитель-курьер на личном автомобиле,https://hh.ru/vacancy/47397505?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,85000.0,120000.0,hh.ru,ООО Дио,https://hh.ru/employer/5072932,"Москва, ВДНХ"
+80,Водитель - курьер с личным автомобилем,https://hh.ru/vacancy/47582553?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,63000.0,126000.0,hh.ru,Зест-персонал,https://hh.ru/employer/21653,Москва
+81,Водитель-курьер,https://hh.ru/vacancy/49112635?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,90000.0,110000.0,hh.ru,ООО СВЕЖАЯ ДОСТАВКА,https://hh.ru/employer/2958881,"Москва, Киевская и еще 1 "
+82,Курьер в Яндекс,https://hh.ru/vacancy/49140230?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,37000.0,104000.0,hh.ru,Центр найма курьеров Яндекс,https://hh.ru/employer/4726298,"Москва, Бутырская  и еще 2 "
+83,Курьер,https://hh.ru/vacancy/45183676?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,40000.0,,hh.ru,Далли-сервис,https://hh.ru/employer/1356767,Москва
+84,Водитель-курьер на автомобиль компании,https://hh.ru/vacancy/49115492?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,100000.0,,hh.ru,LogFix,https://hh.ru/employer/4764586,Москва
+85,Водитель-курьер на личном автомобиле,https://hh.ru/vacancy/49103521?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,95000.0,,hh.ru,СДЭК,https://hh.ru/employer/3530,Москва
+86,Курьер,https://hh.ru/vacancy/45688302?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,45000.0,50000.0,hh.ru,Apple Concierge,https://hh.ru/employer/94488,"Москва, Щукинская"
+87,Водитель-курьер на автомобиле компании (м.Волгоградский пр-кт),https://hh.ru/vacancy/48729454?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,,120000.0,hh.ru,Ozon Логистика ,https://hh.ru/employer/2180?dpt=ozonru-2180-logistic,"Москва, Шоссе Энтузиастов"
+88,Водитель курьер с личным автомобилем в Ситимобил Доставку,https://hh.ru/vacancy/49135575?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,100000.0,120000.0,hh.ru,Super Mozen,https://hh.ru/employer/5293597,Москва
+89,Курьер в Яндекс Еда,https://hh.ru/vacancy/49053564?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,70000.0,150000.0,hh.ru,Космос,https://hh.ru/employer/4852646,Москва
+90,Курьер на автомобиле компании на проект Яндекс.Маркет,https://hh.ru/vacancy/49115351?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,88000.0,120000.0,hh.ru,LogFix,https://hh.ru/employer/4764586,Москва
+91,Водитель-курьер (выходного дня),https://hh.ru/vacancy/45263689?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,40000.0,,hh.ru,КАСТА,https://hh.ru/employer/1174855,Москва
+92,Курьер торгового зала,https://hh.ru/vacancy/47607350?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,42000.0,46000.0,hh.ru,"ЦУМ, Торговый зал",https://hh.ru/employer/52389?dpt=tsum-52389-sales,"Москва, Кузнецкий мост"
+93,Курьер по району (м. Братиславская),https://hh.ru/vacancy/49107863?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,60000.0,80000.0,hh.ru,Кухня на районе,https://hh.ru/employer/3127891,"Москва, Братиславская"
+94,Курьер по доставке продуктов на велосипеде,https://hh.ru/vacancy/49098492?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,75000.0,95000.0,hh.ru,ООО СТРИТ ЛОГИСТИК,https://hh.ru/employer/5167304,Москва
+95,Вечерний водитель-курьер с личным легковым автомобилем (на Север Москвы),https://hh.ru/vacancy/49028428?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,60000.0,,hh.ru,Курьерская служба GRASTIN,https://hh.ru/employer/1315104,"Москва, Кожуховская"
+96,Водитель-курьер ЗАО,https://hh.ru/vacancy/49102935?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,108000.0,,hh.ru,Logsis,https://hh.ru/employer/1807972,Москва
+97,Грузчик-курьер,https://hh.ru/vacancy/41611351?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,50000.0,65000.0,hh.ru,GetTask,https://hh.ru/employer/4769783,Москва
+98,Водитель-курьер на личном автомобиле(м.Волгоградский проспект),https://hh.ru/vacancy/48729437?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,,120000.0,hh.ru,Ozon Логистика ,https://hh.ru/employer/2180?dpt=ozonru-2180-logistic,"Москва, Кузьминки"
+99,Водитель-курьер на автомобиле компании (м.Озёрная),https://hh.ru/vacancy/48729452?query=%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80,,120000.0,hh.ru,Ozon Логистика ,https://hh.ru/employer/2180?dpt=ozonru-2180-logistic,"Москва, Раменки"
+100,Курьер,https://www.superjob.ru/vakansii/kurer-39400559.html,40000.0,40000.0,superjob.ru/,"""Очкарик"", интернет магазин и салоны оптики",https://www.superjob.ru/clients/ochkarik-internet-magazin-i-salony-optiki-24775.html,"Москва, улица Вавилова, 5к3, Ленинский проспект"
+101,Водитель-курьер на личном автомобиле (м. Марьина Роща),https://www.superjob.ru/vakansii/voditel-kurer-na-lichnom-avtomobile-39638843.html,,120000.0,superjob.ru/,Ozon,https://www.superjob.ru/clients/ozon-709796.html,"Москва, Переяславская М. улица. 7стр2, Марьина роща"
+102,Водитель-курьер на доставку питания,https://www.superjob.ru/vakansii/voditel-kurer-na-dostavku-pitaniya-35425793.html,60000.0,,superjob.ru/,Performance Group,https://www.superjob.ru/clients/performance-group-3442165.html,"Москва, улица Бехтерева, 27, Кантемировская"
+103,Курьер по доставке еды,https://www.superjob.ru/vakansii/kurer-po-dostavke-edy-39504275.html,,85000.0,superjob.ru/,Департамент Ф53,https://www.superjob.ru/clients/departament-f53-4105252.html,Москва
+104,Курьер (в своем районе),https://www.superjob.ru/vakansii/kurer-39200010.html,,86000.0,superjob.ru/,Лидер Консалт,https://www.superjob.ru/clients/lider-konsalt-4063471.html,"Москва, Черкизовская и ещё 9 станций"
+105,Курьер (работа рядом с домом),https://www.superjob.ru/vakansii/kurer-39554365.html,37000.0,,superjob.ru/,,,"Москва, Полины Осипенко улица, Полежаевская"
+106,Курьер с личным автомобилем в интернет-магазин,https://www.superjob.ru/vakansii/kurer-s-lichnym-avtomobilem-v-internet-magazin-39290302.html,70000.0,85000.0,superjob.ru/,ProfiMonsters,https://www.superjob.ru/clients/profimonsters-4113461.html,"Москва, Дмитровское шоссе"
+107,Водитель-курьер на автомобиле компании,https://www.superjob.ru/vakansii/voditel-kurer-na-avtomobile-kompanii-39731157.html,80500.0,100000.0,superjob.ru/,"ЦУМ, ТД",https://www.superjob.ru/clients/td-cum-142851.html,"Москва, Петровка, 2, Кузнецкий мост"
+108,Курьер-водитель на авто (м. Стахановская),https://www.superjob.ru/vakansii/kurer-voditel-na-avto-39603068.html,,98000.0,superjob.ru/,JOBCART.RU,https://www.superjob.ru/clients/jobcart-ru-3797376.html,"Москва, Стахановская"
+109,Водитель-курьер на личном автомобиле (210 руб/заказ),https://www.superjob.ru/vakansii/voditel-kurer-na-lichnom-avtomobile-34949091.html,120000.0,150000.0,superjob.ru/,Спортмастер,https://www.superjob.ru/clients/sportmaster-205305.html,"Москва, Полежаевская"
+110,Курьер / Водитель-курьер,https://www.superjob.ru/vakansii/kurer-39289356.html,,85000.0,superjob.ru/,,,"Москва, Огородный проезд, 12, Бутырская"
+111,Водитель-курьер с личным автомобилем (в Около),https://www.superjob.ru/vakansii/voditel-kurer-s-lichnym-avtomobilem-39553444.html,40000.0,,superjob.ru/,Easy Partners Group,https://www.superjob.ru/clients/easy-partners-group-642145.html,Москва
+112,Курьер по доставке пиццы на личном авто,https://www.superjob.ru/vakansii/kurer-po-dostavke-piccy-na-lichnom-avto-39553587.html,70000.0,80000.0,superjob.ru/,НРГ,https://www.superjob.ru/clients/nrg-2370010.html,Москва
+113,Курьер приемщик заказов,https://www.superjob.ru/vakansii/kurer-priemschik-zakazov-36061169.html,1800.0,,superjob.ru/,"Объединение ""Диана""",https://www.superjob.ru/clients/obedinenie-diana-3058622.html,"Москва, Выставочная"
+114,Курьер,https://www.superjob.ru/vakansii/kurer-39400559.html,40000.0,40000.0,superjob.ru/,"""Очкарик"", интернет магазин и салоны оптики",https://www.superjob.ru/clients/ochkarik-internet-magazin-i-salony-optiki-24775.html,"Москва, улица Вавилова, 5к3, Ленинский проспект"
+115,Водитель-курьер на личном автомобиле (м. Марьина Роща),https://www.superjob.ru/vakansii/voditel-kurer-na-lichnom-avtomobile-39638843.html,,120000.0,superjob.ru/,Ozon,https://www.superjob.ru/clients/ozon-709796.html,"Москва, Переяславская М. улица. 7стр2, Марьина роща"
+116,Водитель-курьер на доставку питания,https://www.superjob.ru/vakansii/voditel-kurer-na-dostavku-pitaniya-35425793.html,60000.0,,superjob.ru/,Performance Group,https://www.superjob.ru/clients/performance-group-3442165.html,"Москва, улица Бехтерева, 27, Кантемировская"
+117,Курьер по доставке еды,https://www.superjob.ru/vakansii/kurer-po-dostavke-edy-39504275.html,,85000.0,superjob.ru/,Департамент Ф53,https://www.superjob.ru/clients/departament-f53-4105252.html,Москва
+118,Курьер (в своем районе),https://www.superjob.ru/vakansii/kurer-39200010.html,,86000.0,superjob.ru/,Лидер Консалт,https://www.superjob.ru/clients/lider-konsalt-4063471.html,"Москва, Черкизовская и ещё 9 станций"
+119,Курьер (работа рядом с домом),https://www.superjob.ru/vakansii/kurer-39554365.html,37000.0,,superjob.ru/,,,"Москва, Полины Осипенко улица, Полежаевская"
+120,Курьер с личным автомобилем в интернет-магазин,https://www.superjob.ru/vakansii/kurer-s-lichnym-avtomobilem-v-internet-magazin-39290302.html,70000.0,85000.0,superjob.ru/,ProfiMonsters,https://www.superjob.ru/clients/profimonsters-4113461.html,"Москва, Дмитровское шоссе"
+121,Водитель-курьер на автомобиле компании,https://www.superjob.ru/vakansii/voditel-kurer-na-avtomobile-kompanii-39731157.html,80500.0,100000.0,superjob.ru/,"ЦУМ, ТД",https://www.superjob.ru/clients/td-cum-142851.html,"Москва, Петровка, 2, Кузнецкий мост"
+122,Курьер-водитель на авто (м. Стахановская),https://www.superjob.ru/vakansii/kurer-voditel-na-avto-39603068.html,,98000.0,superjob.ru/,JOBCART.RU,https://www.superjob.ru/clients/jobcart-ru-3797376.html,"Москва, Стахановская"
+123,Водитель-курьер на личном автомобиле (210 руб/заказ),https://www.superjob.ru/vakansii/voditel-kurer-na-lichnom-avtomobile-34949091.html,120000.0,150000.0,superjob.ru/,Спортмастер,https://www.superjob.ru/clients/sportmaster-205305.html,"Москва, Полежаевская"
+124,Курьер / Водитель-курьер,https://www.superjob.ru/vakansii/kurer-39289356.html,,85000.0,superjob.ru/,,,"Москва, Огородный проезд, 12, Бутырская"
+125,Водитель-курьер с личным автомобилем (в Около),https://www.superjob.ru/vakansii/voditel-kurer-s-lichnym-avtomobilem-39553444.html,40000.0,,superjob.ru/,Easy Partners Group,https://www.superjob.ru/clients/easy-partners-group-642145.html,Москва
+126,Курьер по доставке пиццы на личном авто,https://www.superjob.ru/vakansii/kurer-po-dostavke-piccy-na-lichnom-avto-39553587.html,70000.0,80000.0,superjob.ru/,НРГ,https://www.superjob.ru/clients/nrg-2370010.html,Москва
+127,Курьер приемщик заказов,https://www.superjob.ru/vakansii/kurer-priemschik-zakazov-36061169.html,1800.0,,superjob.ru/,"Объединение ""Диана""",https://www.superjob.ru/clients/obedinenie-diana-3058622.html,"Москва, Выставочная"
