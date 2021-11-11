@@ -14,7 +14,7 @@ NEWSPIDER_MODULE = 'jobparcer.spiders'
 
 LOG_ENABLED = True
 LOG_LEVEL = 'DEBUG'
-LOG_FILE = 'log.txt'
+#LOG_FILE = 'log.txt'
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36'
 
@@ -64,10 +64,9 @@ COOKIES_ENABLED = True
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
-#ITEM_PIPELINES = {
-#    'jobparcer.pipelines.JobparcerPipeline': 300,
-#}
-
+ITEM_PIPELINES = {
+    'jobparcer.pipelines.JobparcerPipeline': 300,
+}
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html
 #AUTOTHROTTLE_ENABLED = True
