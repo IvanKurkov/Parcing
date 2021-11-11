@@ -12,3 +12,5 @@ class JobparcerItem(scrapy.Item):
     salary = scrapy.Field()
     url = scrapy.Field()
     _id = scrapy.Field()
+    min_salary = scrapy.Field()
+    max_salary = scrapy.Field()
