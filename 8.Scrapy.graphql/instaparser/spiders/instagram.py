@@ -16,7 +16,7 @@ class InstagramSpider(scrapy.Spider):
     inst_pwd = '#PWD_INSTAGRAM_BROWSER:10:1637092992:Ab1QAC3x04iyvOs+YBp9bNOxX+4NAsERi0D2X46SuZIaL/djThwdjc1XonmES6J23YZtltCVWL5xiECL0Uyhyyk+XeI1X46ZXnHuOY32WbXsfmklZ6kA9gwyy8V+SCWS+R2NEddsRK9JPbWSO7RB'
     users_for_parse = ['anastasiya__kurkova','ndudchenko411']
     friendships_url = 'https://i.instagram.com/api/v1/friendships/'
-    partitions = ['followers']
+    partitions = ['following', 'followers']
 
     def parse(self, response: HtmlResponse):
         csrf = self.fetch_csrf_token(response.text)
