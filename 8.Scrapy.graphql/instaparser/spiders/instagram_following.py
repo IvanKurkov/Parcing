@@ -10,8 +10,8 @@ class InstagramFollowingSpider(scrapy.Spider):
     allowed_domains = ['instagram.com']
     start_urls = ['https://www.instagram.com/']
     inst_login_link = 'https://www.instagram.com/accounts/login/ajax/'
-    inst_login = '13.nicole.48'
-    inst_pwd = '#PWD_INSTAGRAM_BROWSER:10:1637092992:Ab1QAC3x04iyvOs+YBp9bNOxX+4NAsERi0D2X46SuZIaL/djThwdjc1XonmES6J23YZtltCVWL5xiECL0Uyhyyk+XeI1X46ZXnHuOY32WbXsfmklZ6kA9gwyy8V+SCWS+R2NEddsRK9JPbWSO7RB'
+    inst_login = 'ivankurkov4'
+    inst_pwd = '#PWD_INSTAGRAM_BROWSER:10:1637240427:AchQAJb/6IF+KcsS5zy9ldJwooK7RSvY7wRRc2b5k3knHtBsBk1Cdg+kMU/52oy40J/ykno0euQqQgQscvTbQXCyHhtwXU0xWyHnP4Jot54zW0am5tC9L6TKiiMznzaPNxlOLx4OXVmT9Wo='
     users_for_parse = ['anastasiya__kurkova', 'yanana_design', 'eremin.aleksandr1008']
     friendships_url = 'https://i.instagram.com/api/v1/friendships/'
     partitions = 'following'

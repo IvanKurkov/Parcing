@@ -12,6 +12,8 @@ BOT_NAME = 'instaparser'
 SPIDER_MODULES = ['instaparser.spiders']
 NEWSPIDER_MODULE = 'instaparser.spiders'
 
+IMAGES_STORE = 'images'
+
 LOG_ENABLED = True
 LOG_LEVEL = 'DEBUG'
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
@@ -26,7 +28,7 @@ CONCURRENT_REQUESTS = 10
 # Configure a delay for requests for the same website (default: 0)
 # See https://docs.scrapy.org/en/latest/topics/settings.html#download-delay
 # See also autothrottle settings and docs
-DOWNLOAD_DELAY = 0.5
+DOWNLOAD_DELAY = 1.5
 # The download delay setting will honor only one of:
 #CONCURRENT_REQUESTS_PER_DOMAIN = 16
 #CONCURRENT_REQUESTS_PER_IP = 16
@@ -65,7 +67,7 @@ COOKIES_ENABLED = True
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
    'instaparser.pipelines.InstaparserPipeline': 300,
-   'instaparser.pipelines.ProfilePhotosPipeline': 200
+   'instaparser.pipelines.ProfilePhotosPipeline': 200,
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
