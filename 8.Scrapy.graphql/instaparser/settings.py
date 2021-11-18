@@ -65,6 +65,7 @@ COOKIES_ENABLED = True
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
    'instaparser.pipelines.InstaparserPipeline': 300,
+   'instaparser.pipelines.ProfilePhotosPipeline': 200
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)

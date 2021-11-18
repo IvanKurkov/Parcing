@@ -2,21 +2,19 @@ import scrapy
 from scrapy.http import HtmlResponse
 import re
 import json
-from urllib.parse import urlencode
-from copy import deepcopy
 from instaparser.items import InstaparserItem
 
 
-class InstagramSpider(scrapy.Spider):
-    name = 'instagram'
+class InstagramFollowingSpider(scrapy.Spider):
+    name = 'instagram_following'
     allowed_domains = ['instagram.com']
     start_urls = ['https://www.instagram.com/']
     inst_login_link = 'https://www.instagram.com/accounts/login/ajax/'
     inst_login = '13.nicole.48'
     inst_pwd = '#PWD_INSTAGRAM_BROWSER:10:1637092992:Ab1QAC3x04iyvOs+YBp9bNOxX+4NAsERi0D2X46SuZIaL/djThwdjc1XonmES6J23YZtltCVWL5xiECL0Uyhyyk+XeI1X46ZXnHuOY32WbXsfmklZ6kA9gwyy8V+SCWS+R2NEddsRK9JPbWSO7RB'
-    users_for_parse = ['anastasiya__kurkova','ndudchenko411']
+    users_for_parse = ['anastasiya__kurkova', 'yanana_design', 'eremin.aleksandr1008']
     friendships_url = 'https://i.instagram.com/api/v1/friendships/'
-    partitions = ['following', 'followers']
+    partitions = 'following'
 
     def parse(self, response: HtmlResponse):
         csrf = self.fetch_csrf_token(response.text)
@@ -33,22 +31,18 @@ class InstagramSpider(scrapy.Spider):
         j_data = response.json()
         if j_data.get('authenticated'):
             for user_for_parse in self.users_for_parse:
-                for part in self.partitions:
-                    yield response.follow(
-                        f'/{user_for_parse}',
-                        callback=self.following_user_parse,
-                        cb_kwargs={'username': user_for_parse,
-                                   'part': part
-                                   }
-                    )
+                yield response.follow(
+                    f'/{user_for_parse}',
+                    callback=self.following_user_parse,
+                    cb_kwargs={'username': user_for_parse,
+                               'part': self.partitions
+                               }
+                )
 
     def following_user_parse(self, response: HtmlResponse, username, part):
         user_id = self.fetch_user_id(response.text, username)
-        count = 12
-        if part == 'following':
-            url_friendships = f'{self.friendships_url}{user_id}/{part}/?count={count}'
-        else:
-            url_friendships = f'{self.friendships_url}{user_id}/{part}/?count={count}&search_surface=follow_list_page'
+        count = 25
+        url_friendships = f'{self.friendships_url}{user_id}/{part}/?count={count}'
         yield response.follow(url_friendships,
                               callback=self.following_user_info_parse,
                               cb_kwargs={'username': username,
@@ -62,10 +56,7 @@ class InstagramSpider(scrapy.Spider):
         j_data = response.json()
         if j_data.get('next_max_id'):
             max_id = int(j_data['next_max_id'])
-            if part == 'following':
-                next_url = f'{self.friendships_url}{user_id}/{part}/?count={count}&max_id={max_id}'
-            else:
-                next_url = f'{self.friendships_url}{user_id}/{part}/?count={count}&max_id={max_id}&search_surface=follow_list_page'
+            next_url = f'{self.friendships_url}{user_id}/{part}/?count={count}&max_id={max_id}'
             yield response.follow(next_url,
                                   callback=self.following_user_info_parse,
                                   cb_kwargs={'username': username,
